@@ -4,13 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ArcReel/ArcReel — Video Generation | The Diffusion Index</title>
-<meta name="description" content="AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 &amp; Veo 3.1 / Grok / Seedance / OpenAI">
+<meta name="description" content="AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production">
 <link rel="canonical" href="https://diffusion.kymatalabs.com/p/arcreel-arcreel/">
 <meta name="robots" content="index,follow">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://diffusion.kymatalabs.com/p/arcreel-arcreel/">
 <meta property="og:title" content="ArcReel/ArcReel — The Diffusion Index">
-<meta property="og:description" content="AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 &amp; Veo 3.1 / Grok / Seedance / OpenAI">
+<meta property="og:description" content="AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production">
 <meta property="og:image" content="https://diffusion.kymatalabs.com/og.png">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -18,7 +18,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Spline+Sans+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": "ArcReel/ArcReel", "description": "AI Agent \u9a71\u52a8\u7684\u5f00\u6e90\u89c6\u9891\u751f\u6210\u5de5\u4f5c\u53f0 \u2014 \u5c0f\u8bf4\u2192\u89d2\u8272/\u573a\u666f/\u9053\u5177\u8bbe\u8ba1\u2192\u5267\u672c\u2192\u5206\u955c\u56fe\u2192\u89c6\u9891\uff0c\u8de8\u955c\u5934\u89d2\u8272\u4e0e\u573a\u666f\u4e00\u81f4 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI", "url": "https://diffusion.kymatalabs.com/p/arcreel-arcreel/", "codeRepository": "https://github.com/ArcReel/ArcReel", "programmingLanguage": "Python", "author": {"@type": "Person", "name": "ArcReel"}, "license": "AGPL-3.0"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": "ArcReel/ArcReel", "description": "AI Agent \u9a71\u52a8\u7684\u5f00\u6e90\u53ef\u81ea\u90e8\u7f72\u89c6\u9891\u5de5\u4f5c\u53f0\uff1a\u5c06\u5c0f\u8bf4\u4e0e\u5267\u672c\u8f6c\u4e3a\u89d2\u8272\u3001\u573a\u666f\u3001\u9053\u5177\u8d44\u4ea7\u3001\u5206\u955c\u3001\u89c6\u9891\u548c\u526a\u6620\u8349\u7a3f\uff0c\u652f\u6301\u8de8\u955c\u5934\u4e00\u81f4\u6027\u3001\u591a\u4f9b\u5e94\u5546\u4e0e\u8d39\u7528\u8ffd\u8e2a | Self-hosted AI video workspace for stories, storyboards and short-form video production", "url": "https://diffusion.kymatalabs.com/p/arcreel-arcreel/", "codeRepository": "https://github.com/ArcReel/ArcReel", "programmingLanguage": "Python", "author": {"@type": "Person", "name": "ArcReel"}, "license": "AGPL-3.0"}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "The Diffusion Index", "item": "https://diffusion.kymatalabs.com/"}, {"@type": "ListItem", "position": 2, "name": "ArcReel/ArcReel", "item": "https://diffusion.kymatalabs.com/p/arcreel-arcreel/"}]}</script>
 <script>var t;try{t=localStorage.getItem('dfx-theme')}catch(e){}if(t)document.documentElement.setAttribute('data-theme',t);</script>
 </head>
@@ -28,17 +28,17 @@
   <div class="head-actions"><a href="/">← All tools</a><button class="theme-btn" id="theme" aria-label="Toggle darkroom / lightroom">◐</button></div>
 </div></header>
 <main class="wrap detail">
-  <div class="crumb"><a href="/">The Diffusion Index</a> / Video Generation / #23</div>
+  <div class="crumb"><a href="/">The Diffusion Index</a> / Video Generation / #22</div>
   <div class="detail-head"><img class="av" src="https://avatars.githubusercontent.com/u/260027147?v=4&s=160" alt="ArcReel" onerror="this.style.display=&#39;none&#39;"><div><h1 class="disp">ArcReel/ArcReel</h1>
     <div class="sub">by ArcReel · Video Generation · updated today</div></div></div>
-  <p class="desc-big">AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 &amp; Veo 3.1 / Grok / Seedance / OpenAI</p>
+  <p class="desc-big">AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production</p>
   <div class="detail-stats">
     <div class="box"><div class="num disp">70</div><div class="lbl">momentum</div></div>
-    <div class="box"><div class="num disp">3,874</div><div class="lbl">stars</div></div>
-    <div class="box"><div class="num disp">777</div><div class="lbl">forks</div></div>
-    <div class="box"><div class="num disp">#23</div><div class="lbl">rank</div></div>
+    <div class="box"><div class="num disp">3,895</div><div class="lbl">stars</div></div>
+    <div class="box"><div class="num disp">781</div><div class="lbl">forks</div></div>
+    <div class="box"><div class="num disp">#22</div><div class="lbl">rank</div></div>
   </div>
-  <div class="topics"><span class="topic">ai-agent</span><span class="topic">ai-video-generator</span><span class="topic">claude-agent-sdk</span><span class="topic">docker</span><span class="topic">gemini</span><span class="topic">grok</span><span class="topic">image-to-video</span><span class="topic">nano-banana-2</span><span class="topic">openai</span><span class="topic">openclaw</span><span class="topic">seedance</span><span class="topic">seedream</span></div>
+  <div class="topics"><span class="topic">agentic-workflow</span><span class="topic">ai-agent</span><span class="topic">ai-animation</span><span class="topic">ai-video-generator</span><span class="topic">capcut</span><span class="topic">claude-agent-sdk</span><span class="topic">content-creation</span><span class="topic">docker</span><span class="topic">ffmpeg</span><span class="topic">image-to-video</span><span class="topic">multi-provider</span><span class="topic">novel-to-video</span></div>
   <a class="cta" href="https://github.com/ArcReel/ArcReel" target="_blank" rel="noopener">View on GitHub →</a>
   <div class="related"><h2 class="disp">More in Video Generation</h2><div class="grid"><a class="card in" href="/p/waooai-waoowaoo/"><div class="card-top"><img class="av" src="https://avatars.githubusercontent.com/u/264387079?v=4&s=84" loading="lazy" alt="waooAI" onerror="this.style.display=&#39;none&#39;"><div class="id"><div class="name disp">waoowaoo</div><div class="owner">waooAI</div></div><span class="rank disp">05</span></div><span class="cat">Video Generation</span><div class="desc">首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film &amp; v</div></a><a class="card in" href="/p/hkuds-vimax/"><div class="card-top"><img class="av" src="https://avatars.githubusercontent.com/u/118165258?v=4&s=84" loading="lazy" alt="HKUDS" onerror="this.style.display=&#39;none&#39;"><div class="id"><div class="name disp">ViMax</div><div class="owner">HKUDS</div></div><span class="rank disp">09</span></div><span class="cat">Video Generation</span><div class="desc">&quot;ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator Al</div></a><a class="card in" href="/p/nvlabs-sana/"><div class="card-top"><img class="av" src="https://avatars.githubusercontent.com/u/2695301?v=4&s=84" loading="lazy" alt="NVlabs" onerror="this.style.display=&#39;none&#39;"><div class="id"><div class="name disp">Sana</div><div class="owner">NVlabs</div></div><span class="rank disp">10</span></div><span class="cat">Video Generation</span><div class="desc">SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer</div></a><a class="card in" href="/p/vllm-project-vllm-omni/"><div class="card-top"><img class="av" src="https://avatars.githubusercontent.com/u/136984999?v=4&s=84" loading="lazy" alt="vllm-project" onerror="this.style.display=&#39;none&#39;"><div class="id"><div class="name disp">vllm-omni</div><div class="owner">vllm-project</div></div><span class="rank disp">16</span></div><span class="cat">Video Generation</span><div class="desc">A framework for efficient model inference with omni-modality models</div></a></div></div>
 </main>
