@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T09:39:31.604488+00:00",
+ "generated_at": "2026-08-19T09:39:58.728004+00:00",
  "count": 261,
  "categories": [
   {
@@ -43,12 +43,12 @@
    "url": "https://github.com/Comfy-Org/ComfyUI",
    "owner": "Comfy-Org",
    "owner_avatar": "https://avatars.githubusercontent.com/u/166579949?v=4",
-   "stars": 128213,
-   "forks": 15095,
-   "open_issues": 4620,
+   "stars": 128384,
+   "forks": 15127,
+   "open_issues": 4643,
    "language": "Python",
    "license": "GPL-3.0",
-   "pushed_at": "2026-08-18T06:20:10Z",
+   "pushed_at": "2026-08-19T06:59:54Z",
    "created_at": "2023-01-17T03:15:56Z",
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
    "topics": [
@@ -70,12 +70,12 @@
    "url": "https://github.com/unslothai/unsloth",
    "owner": "unslothai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/150920049?v=4",
-   "stars": 73397,
-   "forks": 6620,
-   "open_issues": 1279,
+   "stars": 73701,
+   "forks": 6660,
+   "open_issues": 1345,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T09:36:09Z",
+   "pushed_at": "2026-08-19T09:38:00Z",
    "created_at": "2023-11-29T16:50:09Z",
    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
    "topics": [
@@ -111,12 +111,12 @@
    "url": "https://github.com/huggingface/diffusers",
    "owner": "huggingface",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-   "stars": 34335,
+   "stars": 34342,
    "forks": 7249,
-   "open_issues": 1378,
+   "open_issues": 1373,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T09:12:24Z",
+   "pushed_at": "2026-08-19T08:48:07Z",
    "created_at": "2022-05-30T16:04:02Z",
    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
    "topics": [
@@ -147,12 +147,12 @@
    "url": "https://github.com/invoke-ai/InvokeAI",
    "owner": "invoke-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/113954515?v=4",
-   "stars": 27909,
+   "stars": 27912,
    "forks": 2939,
-   "open_issues": 387,
+   "open_issues": 375,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-17T02:46:18Z",
+   "pushed_at": "2026-08-19T01:13:05Z",
    "created_at": "2022-08-17T01:04:27Z",
    "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
    "topics": [
@@ -181,12 +181,12 @@
    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
    "owner": "Anil-matcha",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4326215?v=4",
-   "stars": 26596,
-   "forks": 4693,
+   "stars": 26661,
+   "forks": 4704,
    "open_issues": 28,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-08-18T04:14:49Z",
+   "pushed_at": "2026-08-19T07:43:52Z",
    "created_at": "2023-05-09T14:12:37Z",
    "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
    "topics": [
@@ -222,8 +222,8 @@
    "url": "https://github.com/waooAI/waoowaoo",
    "owner": "waooAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/264387079?v=4",
-   "stars": 13653,
-   "forks": 3019,
+   "stars": 13668,
+   "forks": 3022,
    "open_issues": 142,
    "language": "TypeScript",
    "license": "NOASSERTION",
@@ -251,8 +251,8 @@
    "url": "https://github.com/MengTo/kage",
    "owner": "MengTo",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1065452?v=4",
-   "stars": 1169,
-   "forks": 217,
+   "stars": 1227,
+   "forks": 226,
    "open_issues": 1,
    "language": "HTML",
    "license": "",
@@ -272,18 +272,42 @@
    "rank": 7
   },
   {
+   "name": "krita-ai-diffusion",
+   "full_name": "Acly/krita-ai-diffusion",
+   "slug": "acly-krita-ai-diffusion",
+   "url": "https://github.com/Acly/krita-ai-diffusion",
+   "owner": "Acly",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/6485914?v=4",
+   "stars": 10484,
+   "forks": 614,
+   "open_issues": 110,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "pushed_at": "2026-08-19T08:40:10Z",
+   "created_at": "2023-09-01T22:52:13Z",
+   "description": "Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.",
+   "topics": [
+    "generative-ai",
+    "krita-plugin",
+    "stable-diffusion"
+   ],
+   "category": "Editing & Control",
+   "momentum": 74,
+   "rank": 8
+  },
+  {
    "name": "Sana",
    "full_name": "NVlabs/Sana",
    "slug": "nvlabs-sana",
    "url": "https://github.com/NVlabs/Sana",
    "owner": "NVlabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2695301?v=4",
-   "stars": 8783,
-   "forks": 703,
-   "open_issues": 137,
+   "stars": 8788,
+   "forks": 705,
+   "open_issues": 138,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T09:34:14Z",
+   "pushed_at": "2026-08-18T10:35:37Z",
    "created_at": "2024-10-11T20:19:45Z",
    "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
    "topics": [
@@ -303,8 +327,8 @@
     "world-models"
    ],
    "category": "Video Generation",
-   "momentum": 74,
-   "rank": 8
+   "momentum": 73,
+   "rank": 9
   },
   {
    "name": "StabilityMatrix",
@@ -313,9 +337,9 @@
    "url": "https://github.com/LykosAI/StabilityMatrix",
    "owner": "LykosAI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/136279213?v=4",
-   "stars": 8649,
+   "stars": 8652,
    "forks": 589,
-   "open_issues": 170,
+   "open_issues": 171,
    "language": "C#",
    "license": "AGPL-3.0",
    "pushed_at": "2026-08-17T22:42:26Z",
@@ -334,7 +358,7 @@
    ],
    "category": "ComfyUI & Nodes",
    "momentum": 73,
-   "rank": 9
+   "rank": 10
   },
   {
    "name": "sdnext",
@@ -344,11 +368,11 @@
    "owner": "vladmandic",
    "owner_avatar": "https://avatars.githubusercontent.com/u/57876960?v=4",
    "stars": 7312,
-   "forks": 577,
+   "forks": 578,
    "open_issues": 68,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T08:47:46Z",
+   "pushed_at": "2026-08-19T06:35:31Z",
    "created_at": "2022-12-24T20:59:11Z",
    "description": "SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing",
    "topics": [
@@ -365,7 +389,7 @@
    ],
    "category": "WebUIs & Apps",
    "momentum": 73,
-   "rank": 10
+   "rank": 11
   },
   {
    "name": "civitai",
@@ -374,12 +398,12 @@
    "url": "https://github.com/civitai/civitai",
    "owner": "civitai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/117393426?v=4",
-   "stars": 7223,
+   "stars": 7227,
    "forks": 733,
-   "open_issues": 170,
+   "open_issues": 178,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T06:38:28Z",
+   "pushed_at": "2026-08-19T07:50:58Z",
    "created_at": "2022-10-11T20:03:20Z",
    "description": "A repository of models, textual inversions, and more",
    "topics": [
@@ -389,7 +413,7 @@
    ],
    "category": "Training & Fine-tuning",
    "momentum": 73,
-   "rank": 11
+   "rank": 12
   },
   {
    "name": "Toonflow-app",
@@ -398,9 +422,9 @@
    "url": "https://github.com/HBAI-Ltd/Toonflow-app",
    "owner": "HBAI-Ltd",
    "owner_avatar": "https://avatars.githubusercontent.com/u/257465404?v=4",
-   "stars": 14061,
-   "forks": 2546,
-   "open_issues": 3,
+   "stars": 14099,
+   "forks": 2554,
+   "open_issues": 6,
    "language": "TypeScript",
    "license": "Apache-2.0",
    "pushed_at": "2026-07-28T08:16:41Z",
@@ -428,7 +452,7 @@
    ],
    "category": "WebUIs & Apps",
    "momentum": 72,
-   "rank": 12
+   "rank": 13
   },
   {
    "name": "prettymaps",
@@ -437,8 +461,8 @@
    "url": "https://github.com/marceloprates/prettymaps",
    "owner": "marceloprates",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1848024?v=4",
-   "stars": 12699,
-   "forks": 637,
+   "stars": 12800,
+   "forks": 645,
    "open_issues": 14,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -456,7 +480,7 @@
    ],
    "category": "Image Models",
    "momentum": 72,
-   "rank": 13
+   "rank": 14
   },
   {
    "name": "vllm-omni",
@@ -465,12 +489,12 @@
    "url": "https://github.com/vllm-project/vllm-omni",
    "owner": "vllm-project",
    "owner_avatar": "https://avatars.githubusercontent.com/u/136984999?v=4",
-   "stars": 6146,
-   "forks": 1492,
-   "open_issues": 1596,
+   "stars": 6167,
+   "forks": 1502,
+   "open_issues": 1622,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T09:36:08Z",
+   "pushed_at": "2026-08-19T08:25:57Z",
    "created_at": "2025-09-11T00:34:43Z",
    "description": "A framework for efficient model inference with omni-modality models",
    "topics": [
@@ -487,7 +511,7 @@
    ],
    "category": "Video Generation",
    "momentum": 72,
-   "rank": 14
+   "rank": 15
   },
   {
    "name": "satori",
@@ -496,7 +520,7 @@
    "url": "https://github.com/vercel/satori",
    "owner": "vercel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14985020?v=4",
-   "stars": 13780,
+   "stars": 13786,
    "forks": 358,
    "open_issues": 131,
    "language": "TypeScript",
@@ -517,7 +541,7 @@
    ],
    "category": "Image Models",
    "momentum": 71,
-   "rank": 15
+   "rank": 16
   },
   {
    "name": "ViMax",
@@ -526,9 +550,9 @@
    "url": "https://github.com/HKUDS/ViMax",
    "owner": "HKUDS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
-   "stars": 12011,
-   "forks": 1797,
-   "open_issues": 46,
+   "stars": 12028,
+   "forks": 1801,
+   "open_issues": 47,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-07-29T08:56:47Z",
@@ -540,7 +564,7 @@
    ],
    "category": "Video Generation",
    "momentum": 71,
-   "rank": 16
+   "rank": 17
   },
   {
    "name": "stable-diffusion.cpp",
@@ -549,9 +573,9 @@
    "url": "https://github.com/leejet/stable-diffusion.cpp",
    "owner": "leejet",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31925346?v=4",
-   "stars": 6786,
-   "forks": 740,
-   "open_issues": 256,
+   "stars": 6790,
+   "forks": 741,
+   "open_issues": 258,
    "language": "C++",
    "license": "MIT",
    "pushed_at": "2026-08-12T18:33:16Z",
@@ -580,7 +604,7 @@
    ],
    "category": "Diffusion Frameworks",
    "momentum": 71,
-   "rank": 17
+   "rank": 18
   },
   {
    "name": "pts",
@@ -594,7 +618,7 @@
    "open_issues": 52,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T07:50:31Z",
+   "pushed_at": "2026-08-19T07:17:04Z",
    "created_at": "2017-03-24T14:09:43Z",
    "description": "A library for visualization and creative-coding",
    "topics": [
@@ -616,7 +640,7 @@
    ],
    "category": "Image Models",
    "momentum": 71,
-   "rank": 18
+   "rank": 19
   },
   {
    "name": "remove-ai-watermarks",
@@ -625,12 +649,12 @@
    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
    "owner": "wiltodelta",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1192743?v=4",
-   "stars": 4866,
-   "forks": 463,
-   "open_issues": 1,
+   "stars": 4931,
+   "forks": 468,
+   "open_issues": 2,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T02:38:42Z",
+   "pushed_at": "2026-08-19T08:47:09Z",
    "created_at": "2026-03-25T18:15:24Z",
    "description": "Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.",
    "topics": [
@@ -657,7 +681,7 @@
    ],
    "category": "ComfyUI & Nodes",
    "momentum": 71,
-   "rank": 19
+   "rank": 20
   },
   {
    "name": "easydiffusion",
@@ -666,7 +690,7 @@
    "url": "https://github.com/easydiffusion/easydiffusion",
    "owner": "easydiffusion",
    "owner_avatar": "https://avatars.githubusercontent.com/u/118806966?v=4",
-   "stars": 10449,
+   "stars": 10448,
    "forks": 860,
    "open_issues": 95,
    "language": "JavaScript",
@@ -683,37 +707,6 @@
    ],
    "category": "WebUIs & Apps",
    "momentum": 70,
-   "rank": 20
-  },
-  {
-   "name": "transformerlab-app",
-   "full_name": "transformerlab/transformerlab-app",
-   "slug": "transformerlab-transformerlab-app",
-   "url": "https://github.com/transformerlab/transformerlab-app",
-   "owner": "transformerlab",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/148471416?v=4",
-   "stars": 5173,
-   "forks": 546,
-   "open_issues": 17,
-   "language": "Python",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-08-09T10:40:37Z",
-   "created_at": "2023-12-24T22:09:14Z",
-   "description": "The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.",
-   "topics": [
-    "diffusion",
-    "diffusion-models",
-    "electron",
-    "llama",
-    "llms",
-    "lora",
-    "mlx",
-    "rlhf",
-    "stability-diffusion",
-    "transformers"
-   ],
-   "category": "Training & Fine-tuning",
-   "momentum": 70,
    "rank": 21
   },
   {
@@ -723,12 +716,12 @@
    "url": "https://github.com/mcmonkeyprojects/SwarmUI",
    "owner": "mcmonkeyprojects",
    "owner_avatar": "https://avatars.githubusercontent.com/u/43497670?v=4",
-   "stars": 4465,
+   "stars": 4471,
    "forks": 453,
-   "open_issues": 150,
+   "open_issues": 153,
    "language": "C#",
    "license": "MIT",
-   "pushed_at": "2026-08-18T00:42:20Z",
+   "pushed_at": "2026-08-19T02:55:50Z",
    "created_at": "2024-06-21T06:24:53Z",
    "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
    "topics": [
@@ -753,12 +746,12 @@
    "url": "https://github.com/ArcReel/ArcReel",
    "owner": "ArcReel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/260027147?v=4",
-   "stars": 4053,
-   "forks": 808,
+   "stars": 4071,
+   "forks": 812,
    "open_issues": 112,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-08-18T09:22:27Z",
+   "pushed_at": "2026-08-19T08:04:36Z",
    "created_at": "2026-02-07T08:17:10Z",
    "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
    "topics": [
@@ -794,12 +787,12 @@
    "url": "https://github.com/hao-ai-lab/FastVideo",
    "owner": "hao-ai-lab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/149045815?v=4",
-   "stars": 3948,
+   "stars": 3951,
    "forks": 402,
-   "open_issues": 143,
+   "open_issues": 145,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-17T17:39:33Z",
+   "pushed_at": "2026-08-19T07:11:02Z",
    "created_at": "2024-10-24T02:11:32Z",
    "description": "A unified inference and post-training framework for accelerated video generation.",
    "topics": [
@@ -821,12 +814,12 @@
    "url": "https://github.com/dramaclaw/dramaclaw",
    "owner": "dramaclaw",
    "owner_avatar": "https://avatars.githubusercontent.com/u/271427583?v=4",
-   "stars": 3758,
-   "forks": 369,
-   "open_issues": 38,
+   "stars": 3788,
+   "forks": 378,
+   "open_issues": 41,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-18T09:23:46Z",
+   "pushed_at": "2026-08-19T09:36:46Z",
    "created_at": "2026-03-27T04:34:30Z",
    "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
    "topics": [
@@ -855,43 +848,13 @@
    "rank": 25
   },
   {
-   "name": "PromptEnhancer",
-   "full_name": "Hunyuan-PromptEnhancer/PromptEnhancer",
-   "slug": "hunyuan-promptenhancer-promptenhancer",
-   "url": "https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer",
-   "owner": "Hunyuan-PromptEnhancer",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/229924077?v=4",
-   "stars": 3754,
-   "forks": 326,
-   "open_issues": 13,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-18T03:09:57Z",
-   "created_at": "2025-09-09T08:56:47Z",
-   "description": "[CVPR 2026] PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation.",
-   "topics": [
-    "hunyuan",
-    "hunyuan-image",
-    "image-editing",
-    "image-to-image",
-    "prompt",
-    "prompt-engineering",
-    "prompt-enhancer",
-    "text-to-image",
-    "vlm"
-   ],
-   "category": "Editing & Control",
-   "momentum": 70,
-   "rank": 26
-  },
-  {
    "name": "MochiDiffusion",
    "full_name": "MochiDiffusion/MochiDiffusion",
    "slug": "mochidiffusion-mochidiffusion",
    "url": "https://github.com/MochiDiffusion/MochiDiffusion",
    "owner": "MochiDiffusion",
    "owner_avatar": "https://avatars.githubusercontent.com/u/163610650?v=4",
-   "stars": 7923,
+   "stars": 7924,
    "forks": 364,
    "open_issues": 7,
    "language": "Swift",
@@ -912,6 +875,37 @@
    ],
    "category": "Image Models",
    "momentum": 69,
+   "rank": 26
+  },
+  {
+   "name": "transformerlab-app",
+   "full_name": "transformerlab/transformerlab-app",
+   "slug": "transformerlab-transformerlab-app",
+   "url": "https://github.com/transformerlab/transformerlab-app",
+   "owner": "transformerlab",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/148471416?v=4",
+   "stars": 5175,
+   "forks": 547,
+   "open_issues": 17,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-08-09T10:40:37Z",
+   "created_at": "2023-12-24T22:09:14Z",
+   "description": "The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.",
+   "topics": [
+    "diffusion",
+    "diffusion-models",
+    "electron",
+    "llama",
+    "llms",
+    "lora",
+    "mlx",
+    "rlhf",
+    "stability-diffusion",
+    "transformers"
+   ],
+   "category": "Training & Fine-tuning",
+   "momentum": 69,
    "rank": 27
   },
   {
@@ -921,9 +915,9 @@
    "url": "https://github.com/Osmantic/ODS",
    "owner": "Osmantic",
    "owner_avatar": "https://avatars.githubusercontent.com/u/262014141?v=4",
-   "stars": 4291,
-   "forks": 647,
-   "open_issues": 775,
+   "stars": 4378,
+   "forks": 662,
+   "open_issues": 782,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-13T08:35:33Z",
@@ -958,8 +952,8 @@
    "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
    "owner": "Lightricks",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3170348?v=4",
-   "stars": 4079,
-   "forks": 483,
+   "stars": 4084,
+   "forks": 485,
    "open_issues": 115,
    "language": "Python",
    "license": "NOASSERTION",
@@ -980,13 +974,43 @@
    "rank": 29
   },
   {
+   "name": "PromptEnhancer",
+   "full_name": "Hunyuan-PromptEnhancer/PromptEnhancer",
+   "slug": "hunyuan-promptenhancer-promptenhancer",
+   "url": "https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer",
+   "owner": "Hunyuan-PromptEnhancer",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/229924077?v=4",
+   "stars": 3754,
+   "forks": 326,
+   "open_issues": 13,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-18T03:09:57Z",
+   "created_at": "2025-09-09T08:56:47Z",
+   "description": "[CVPR 2026] PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation.",
+   "topics": [
+    "hunyuan",
+    "hunyuan-image",
+    "image-editing",
+    "image-to-image",
+    "prompt",
+    "prompt-engineering",
+    "prompt-enhancer",
+    "text-to-image",
+    "vlm"
+   ],
+   "category": "Editing & Control",
+   "momentum": 69,
+   "rank": 30
+  },
+  {
    "name": "Gemini-API",
    "full_name": "HanaokaYuzu/Gemini-API",
    "slug": "hanaokayuzu-gemini-api",
    "url": "https://github.com/HanaokaYuzu/Gemini-API",
    "owner": "HanaokaYuzu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/157540577?v=4",
-   "stars": 3407,
+   "stars": 3414,
    "forks": 536,
    "open_issues": 43,
    "language": "Python",
@@ -1013,7 +1037,31 @@
    ],
    "category": "Image Models",
    "momentum": 69,
-   "rank": 30
+   "rank": 31
+  },
+  {
+   "name": "rgthree-comfy",
+   "full_name": "rgthree/rgthree-comfy",
+   "slug": "rgthree-rgthree-comfy",
+   "url": "https://github.com/rgthree/rgthree-comfy",
+   "owner": "rgthree",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/476360?v=4",
+   "stars": 3370,
+   "forks": 256,
+   "open_issues": 300,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-08-18T16:10:40Z",
+   "created_at": "2023-08-14T00:25:25Z",
+   "description": "Making ComfyUI more comfortable!",
+   "topics": [
+    "aiart",
+    "comfyui",
+    "stable-diffusion"
+   ],
+   "category": "ComfyUI & Nodes",
+   "momentum": 69,
+   "rank": 32
   },
   {
    "name": "printfilm",
@@ -1022,8 +1070,8 @@
    "url": "https://github.com/yuanzhongqiao/printfilm",
    "owner": "yuanzhongqiao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/35392196?v=4",
-   "stars": 3624,
-   "forks": 521,
+   "stars": 3702,
+   "forks": 536,
    "open_issues": 9,
    "language": "Java",
    "license": "",
@@ -1036,36 +1084,7 @@
    ],
    "category": "Video Generation",
    "momentum": 68,
-   "rank": 31
-  },
-  {
-   "name": "gpt_image_playground",
-   "full_name": "CookSleep/gpt_image_playground",
-   "slug": "cooksleep-gpt-image-playground",
-   "url": "https://github.com/CookSleep/gpt_image_playground",
-   "owner": "CookSleep",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/151028412?v=4",
-   "stars": 3458,
-   "forks": 861,
-   "open_issues": 2,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-08-07T07:06:30Z",
-   "created_at": "2026-04-23T20:18:57Z",
-   "description": "基于 OpenAI gpt-image-2 API 的图片生成与编辑工具",
-   "topics": [
-    "gpt-image",
-    "image-editing",
-    "image-generation",
-    "openai",
-    "react",
-    "tailwindcss",
-    "typescript",
-    "vite"
-   ],
-   "category": "Editing & Control",
-   "momentum": 68,
-   "rank": 32
+   "rank": 33
   },
   {
    "name": "SimpleTuner",
@@ -1074,12 +1093,12 @@
    "url": "https://github.com/bghira/SimpleTuner",
    "owner": "bghira",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59658056?v=4",
-   "stars": 2900,
+   "stars": 2901,
    "forks": 288,
    "open_issues": 21,
    "language": "Python",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-08-18T02:47:32Z",
+   "pushed_at": "2026-08-18T18:50:38Z",
    "created_at": "2023-05-28T18:01:02Z",
    "description": "A general fine-tuning kit geared toward image/video/audio diffusion models.",
    "topics": [
@@ -1092,7 +1111,7 @@
    ],
    "category": "Diffusion Frameworks",
    "momentum": 68,
-   "rank": 33
+   "rank": 34
   },
   {
    "name": "Papers-in-100-Lines-of-Code",
@@ -1101,7 +1120,7 @@
    "url": "https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code",
    "owner": "MaximeVandegar",
    "owner_avatar": "https://avatars.githubusercontent.com/u/45870423?v=4",
-   "stars": 2857,
+   "stars": 2859,
    "forks": 257,
    "open_issues": 0,
    "language": "Python",
@@ -1133,7 +1152,7 @@
    ],
    "category": "Image Models",
    "momentum": 68,
-   "rank": 34
+   "rank": 35
   },
   {
    "name": "LightX2V",
@@ -1142,12 +1161,12 @@
    "url": "https://github.com/ModelTC/LightX2V",
    "owner": "ModelTC",
    "owner_avatar": "https://avatars.githubusercontent.com/u/69665675?v=4",
-   "stars": 2686,
+   "stars": 2693,
    "forks": 256,
-   "open_issues": 186,
+   "open_issues": 189,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-18T09:00:21Z",
+   "pushed_at": "2026-08-19T09:14:30Z",
    "created_at": "2025-03-24T10:27:56Z",
    "description": "Lightweight Image Video Action Generation Inference Framework",
    "topics": [
@@ -1164,7 +1183,7 @@
    ],
    "category": "Diffusion Frameworks",
    "momentum": 68,
-   "rank": 35
+   "rank": 36
   },
   {
    "name": "ResearchStudio",
@@ -1173,7 +1192,7 @@
    "url": "https://github.com/microsoft/ResearchStudio",
    "owner": "microsoft",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
-   "stars": 2389,
+   "stars": 2406,
    "forks": 137,
    "open_issues": 8,
    "language": "Python",
@@ -1192,7 +1211,7 @@
    ],
    "category": "Video Generation",
    "momentum": 68,
-   "rank": 36
+   "rank": 37
   },
   {
    "name": "Pixelle-Video",
@@ -1201,9 +1220,9 @@
    "url": "https://github.com/ATH-MaaS/Pixelle-Video",
    "owner": "ATH-MaaS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/172576026?v=4",
-   "stars": 26887,
-   "forks": 3884,
-   "open_issues": 157,
+   "stars": 26956,
+   "forks": 3907,
+   "open_issues": 158,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-06-14T12:40:58Z",
@@ -1218,7 +1237,7 @@
    ],
    "category": "ComfyUI & Nodes",
    "momentum": 67,
-   "rank": 37
+   "rank": 38
   },
   {
    "name": "snappy",
@@ -1245,7 +1264,7 @@
    ],
    "category": "Image Models",
    "momentum": 67,
-   "rank": 38
+   "rank": 39
   },
   {
    "name": "TurboDiffusion",
@@ -1254,8 +1273,8 @@
    "url": "https://github.com/thu-ml/TurboDiffusion",
    "owner": "thu-ml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19198992?v=4",
-   "stars": 3613,
-   "forks": 275,
+   "stars": 3616,
+   "forks": 276,
    "open_issues": 80,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1276,7 +1295,36 @@
    ],
    "category": "Video Generation",
    "momentum": 67,
-   "rank": 39
+   "rank": 40
+  },
+  {
+   "name": "gpt_image_playground",
+   "full_name": "CookSleep/gpt_image_playground",
+   "slug": "cooksleep-gpt-image-playground",
+   "url": "https://github.com/CookSleep/gpt_image_playground",
+   "owner": "CookSleep",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/151028412?v=4",
+   "stars": 3469,
+   "forks": 861,
+   "open_issues": 2,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-08-07T07:06:30Z",
+   "created_at": "2026-04-23T20:18:57Z",
+   "description": "基于 OpenAI gpt-image-2 API 的图片生成与编辑工具",
+   "topics": [
+    "gpt-image",
+    "image-editing",
+    "image-generation",
+    "openai",
+    "react",
+    "tailwindcss",
+    "typescript",
+    "vite"
+   ],
+   "category": "Editing & Control",
+   "momentum": 67,
+   "rank": 41
   },
   {
    "name": "super-agent-party",
@@ -1285,7 +1333,7 @@
    "url": "https://github.com/heshengtao/super-agent-party",
    "owner": "heshengtao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20573295?v=4",
-   "stars": 2591,
+   "stars": 2592,
    "forks": 277,
    "open_issues": 14,
    "language": "JavaScript",
@@ -1314,7 +1362,7 @@
    ],
    "category": "ComfyUI & Nodes",
    "momentum": 67,
-   "rank": 40
+   "rank": 42
   },
   {
    "name": "paperbanana",
@@ -1323,7 +1371,7 @@
    "url": "https://github.com/llmsresearch/paperbanana",
    "owner": "llmsresearch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/171461560?v=4",
-   "stars": 2244,
+   "stars": 2245,
    "forks": 332,
    "open_issues": 10,
    "language": "Python",
@@ -1355,7 +1403,7 @@
    ],
    "category": "Image Models",
    "momentum": 67,
-   "rank": 41
+   "rank": 43
   },
   {
    "name": "HunyuanVideo",
@@ -1364,8 +1412,8 @@
    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
    "owner": "Tencent-Hunyuan",
    "owner_avatar": "https://avatars.githubusercontent.com/u/210980732?v=4",
-   "stars": 12436,
-   "forks": 1311,
+   "stars": 12440,
+   "forks": 1312,
    "open_issues": 183,
    "language": "Python",
    "license": "NOASSERTION",
@@ -1379,31 +1427,7 @@
    ],
    "category": "Video Generation",
    "momentum": 66,
-   "rank": 42
-  },
-  {
-   "name": "krita-ai-diffusion",
-   "full_name": "Acly/krita-ai-diffusion",
-   "slug": "acly-krita-ai-diffusion",
-   "url": "https://github.com/Acly/krita-ai-diffusion",
-   "owner": "Acly",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/6485914?v=4",
-   "stars": 10481,
-   "forks": 614,
-   "open_issues": 120,
-   "language": "Python",
-   "license": "GPL-3.0",
-   "pushed_at": "2026-06-30T12:33:40Z",
-   "created_at": "2023-09-01T22:52:13Z",
-   "description": "Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.",
-   "topics": [
-    "generative-ai",
-    "krita-plugin",
-    "stable-diffusion"
-   ],
-   "category": "Editing & Control",
-   "momentum": 66,
-   "rank": 43
+   "rank": 44
   },
   {
    "name": "LongLive",
@@ -1412,8 +1436,8 @@
    "url": "https://github.com/NVlabs/LongLive",
    "owner": "NVlabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2695301?v=4",
-   "stars": 2546,
-   "forks": 243,
+   "stars": 2547,
+   "forks": 244,
    "open_issues": 18,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1430,7 +1454,7 @@
    ],
    "category": "Video Generation",
    "momentum": 66,
-   "rank": 44
+   "rank": 45
   },
   {
    "name": "ComfyUI-Easy-Install",
@@ -1439,9 +1463,9 @@
    "url": "https://github.com/Tavris1/ComfyUI-Easy-Install",
    "owner": "Tavris1",
    "owner_avatar": "https://avatars.githubusercontent.com/u/36665424?v=4",
-   "stars": 1804,
+   "stars": 1808,
    "forks": 161,
-   "open_issues": 2,
+   "open_issues": 1,
    "language": "Batchfile",
    "license": "MIT",
    "pushed_at": "2026-08-18T07:12:16Z",
@@ -1459,30 +1483,6 @@
    ],
    "category": "ComfyUI & Nodes",
    "momentum": 66,
-   "rank": 45
-  },
-  {
-   "name": "rgthree-comfy",
-   "full_name": "rgthree/rgthree-comfy",
-   "slug": "rgthree-rgthree-comfy",
-   "url": "https://github.com/rgthree/rgthree-comfy",
-   "owner": "rgthree",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/476360?v=4",
-   "stars": 3367,
-   "forks": 254,
-   "open_issues": 301,
-   "language": "JavaScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-24T01:59:00Z",
-   "created_at": "2023-08-14T00:25:25Z",
-   "description": "Making ComfyUI more comfortable!",
-   "topics": [
-    "aiart",
-    "comfyui",
-    "stable-diffusion"
-   ],
-   "category": "ComfyUI & Nodes",
-   "momentum": 65,
    "rank": 46
   },
   {
@@ -1492,8 +1492,8 @@
    "url": "https://github.com/jd-opensource/JoyAI-Image",
    "owner": "jd-opensource",
    "owner_avatar": "https://avatars.githubusercontent.com/u/75349771?v=4",
-   "stars": 2142,
-   "forks": 160,
+   "stars": 2144,
+   "forks": 161,
    "open_issues": 13,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1512,8 +1512,8 @@
    "url": "https://github.com/YanWenKun/ComfyUI-Docker",
    "owner": "YanWenKun",
    "owner_avatar": "https://avatars.githubusercontent.com/u/58008456?v=4",
-   "stars": 1629,
-   "forks": 231,
+   "stars": 1630,
+   "forks": 232,
    "open_issues": 25,
    "language": "Dockerfile",
    "license": "NOASSERTION",
@@ -1530,6 +1530,45 @@
    "rank": 48
   },
   {
+   "name": "infinite-image-browsing",
+   "full_name": "zanllp/infinite-image-browsing",
+   "slug": "zanllp-infinite-image-browsing",
+   "url": "https://github.com/zanllp/infinite-image-browsing",
+   "owner": "zanllp",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/25872019?v=4",
+   "stars": 1344,
+   "forks": 176,
+   "open_issues": 84,
+   "language": "Vue",
+   "license": "MIT",
+   "pushed_at": "2026-08-18T14:09:51Z",
+   "created_at": "2023-03-07T18:26:27Z",
+   "description": "A full-featured image/video management app with AI-powered organization and semantic search. Supports metadata from  SD-webui, ComfyUI, Fooocus, NovelAI, StableSwarmUI, and more. Available as standalone app, SD-webui extension, or library.",
+   "topics": [
+    "audio",
+    "comfyui",
+    "extension",
+    "file-explorer",
+    "file-server",
+    "fooocus",
+    "gallery",
+    "image-previewer",
+    "novelai",
+    "previewer",
+    "remote-explorer",
+    "skills",
+    "stable-diffusion-webui",
+    "stable-diffusion-webui-plugin",
+    "stable-swarm-ui",
+    "stableswarmui",
+    "video",
+    "video-player"
+   ],
+   "category": "ComfyUI & Nodes",
+   "momentum": 65,
+   "rank": 49
+  },
+  {
    "name": "airunner",
    "full_name": "Capsize-Games/airunner",
    "slug": "capsize-games-airunner",
@@ -1538,10 +1577,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/83726625?v=4",
    "stars": 1312,
    "forks": 102,
-   "open_issues": 33,
+   "open_issues": 35,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-18T02:00:44Z",
+   "pushed_at": "2026-08-19T04:04:18Z",
    "created_at": "2023-03-21T19:14:03Z",
    "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows",
    "topics": [
@@ -1568,7 +1607,7 @@
    ],
    "category": "Diffusion Frameworks",
    "momentum": 65,
-   "rank": 49
+   "rank": 50
   },
   {
    "name": "html-video",
@@ -1577,8 +1616,8 @@
    "url": "https://github.com/nexu-io/html-video",
    "owner": "nexu-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/263625318?v=4",
-   "stars": 4350,
-   "forks": 549,
+   "stars": 4357,
+   "forks": 548,
    "open_issues": 51,
    "language": "HTML",
    "license": "Apache-2.0",
@@ -1603,45 +1642,6 @@
     "video-generation"
    ],
    "category": "Video Generation",
-   "momentum": 64,
-   "rank": 50
-  },
-  {
-   "name": "infinite-image-browsing",
-   "full_name": "zanllp/infinite-image-browsing",
-   "slug": "zanllp-infinite-image-browsing",
-   "url": "https://github.com/zanllp/infinite-image-browsing",
-   "owner": "zanllp",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/25872019?v=4",
-   "stars": 1344,
-   "forks": 176,
-   "open_issues": 85,
-   "language": "Vue",
-   "license": "MIT",
-   "pushed_at": "2026-08-10T17:37:25Z",
-   "created_at": "2023-03-07T18:26:27Z",
-   "description": "A full-featured image/video management app with AI-powered organization and semantic search. Supports metadata from  SD-webui, ComfyUI, Fooocus, NovelAI, StableSwarmUI, and more. Available as standalone app, SD-webui extension, or library.",
-   "topics": [
-    "audio",
-    "comfyui",
-    "extension",
-    "file-explorer",
-    "file-server",
-    "fooocus",
-    "gallery",
-    "image-previewer",
-    "novelai",
-    "previewer",
-    "remote-explorer",
-    "skills",
-    "stable-diffusion-webui",
-    "stable-diffusion-webui-plugin",
-    "stable-swarm-ui",
-    "stableswarmui",
-    "video",
-    "video-player"
-   ],
-   "category": "ComfyUI & Nodes",
    "momentum": 64,
    "rank": 51
   },
@@ -1685,8 +1685,8 @@
    "url": "https://github.com/KlingAIResearch/LivePortrait",
    "owner": "KlingAIResearch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/168244549?v=4",
-   "stars": 18925,
-   "forks": 1964,
+   "stars": 18940,
+   "forks": 1965,
    "open_issues": 289,
    "language": "Python",
    "license": "NOASSERTION",
@@ -1710,7 +1710,7 @@
    "url": "https://github.com/Robbyant/lingbot-world",
    "owner": "Robbyant",
    "owner_avatar": "https://avatars.githubusercontent.com/u/212647524?v=4",
-   "stars": 4370,
+   "stars": 4374,
    "forks": 396,
    "open_issues": 40,
    "language": "Python",
@@ -1736,9 +1736,9 @@
    "url": "https://github.com/1038lab/ComfyUI-RMBG",
    "owner": "1038lab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/129358391?v=4",
-   "stars": 2076,
+   "stars": 2077,
    "forks": 132,
-   "open_issues": 11,
+   "open_issues": 12,
    "language": "Python",
    "license": "GPL-3.0",
    "pushed_at": "2026-07-28T20:55:59Z",
@@ -1764,7 +1764,7 @@
    "url": "https://github.com/PKU-YuanGroup/Helios",
    "owner": "PKU-YuanGroup",
    "owner_avatar": "https://avatars.githubusercontent.com/u/135824553?v=4",
-   "stars": 2058,
+   "stars": 2064,
    "forks": 165,
    "open_issues": 42,
    "language": "Python",
@@ -1806,7 +1806,7 @@
    "owner": "kandinskylab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/242813463?v=4",
    "stars": 808,
-   "forks": 62,
+   "forks": 63,
    "open_issues": 26,
    "language": "Python",
    "license": "MIT",
@@ -1832,8 +1832,8 @@
    "url": "https://github.com/SamurAIGPT/Text-To-Video-AI",
    "owner": "SamurAIGPT",
    "owner_avatar": "https://avatars.githubusercontent.com/u/131431084?v=4",
-   "stars": 804,
-   "forks": 313,
+   "stars": 805,
+   "forks": 314,
    "open_issues": 2,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -1914,8 +1914,8 @@
    "url": "https://github.com/SandAI-org/MAGI-1",
    "owner": "SandAI-org",
    "owner_avatar": "https://avatars.githubusercontent.com/u/208222005?v=4",
-   "stars": 3765,
-   "forks": 239,
+   "stars": 3767,
+   "forks": 240,
    "open_issues": 46,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1928,8 +1928,60 @@
     "video-generation"
    ],
    "category": "Video Generation",
-   "momentum": 59,
+   "momentum": 58,
    "rank": 60
+  },
+  {
+   "name": "desktop",
+   "full_name": "Comfy-Org/desktop",
+   "slug": "comfy-org-desktop",
+   "url": "https://github.com/Comfy-Org/desktop",
+   "owner": "Comfy-Org",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/166579949?v=4",
+   "stars": 2356,
+   "forks": 230,
+   "open_issues": 82,
+   "language": "TypeScript",
+   "license": "GPL-3.0",
+   "pushed_at": "2026-06-26T00:25:20Z",
+   "created_at": "2024-08-13T00:43:45Z",
+   "description": "[ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop",
+   "topics": [
+    "ai",
+    "comfyui"
+   ],
+   "category": "ComfyUI & Nodes",
+   "momentum": 58,
+   "rank": 61
+  },
+  {
+   "name": "WebAI2API",
+   "full_name": "foxhui/WebAI2API",
+   "slug": "foxhui-webai2api",
+   "url": "https://github.com/foxhui/WebAI2API",
+   "owner": "foxhui",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/31238038?v=4",
+   "stars": 1257,
+   "forks": 331,
+   "open_issues": 38,
+   "language": "JavaScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-10T04:01:47Z",
+   "created_at": "2025-11-23T13:17:57Z",
+   "description": "WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 | Web AI to OpenAI API via Camoufox. Supports LMArena/Gemini and more, multi-window concurrency & account isolation.",
+   "topics": [
+    "ai-tools",
+    "browser-automation",
+    "generative-ai",
+    "image-generation",
+    "openai-api",
+    "text-generation",
+    "text-to-image",
+    "web-scraping"
+   ],
+   "category": "Image Models",
+   "momentum": 58,
+   "rank": 62
   },
   {
    "name": "Causal-Forcing",
@@ -1938,7 +1990,7 @@
    "url": "https://github.com/thu-ml/Causal-Forcing",
    "owner": "thu-ml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19198992?v=4",
-   "stars": 927,
+   "stars": 928,
    "forks": 52,
    "open_issues": 31,
    "language": "Python",
@@ -1966,58 +2018,6 @@
     "world-models"
    ],
    "category": "Video Generation",
-   "momentum": 59,
-   "rank": 61
-  },
-  {
-   "name": "desktop",
-   "full_name": "Comfy-Org/desktop",
-   "slug": "comfy-org-desktop",
-   "url": "https://github.com/Comfy-Org/desktop",
-   "owner": "Comfy-Org",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/166579949?v=4",
-   "stars": 2356,
-   "forks": 230,
-   "open_issues": 82,
-   "language": "TypeScript",
-   "license": "GPL-3.0",
-   "pushed_at": "2026-06-26T00:25:20Z",
-   "created_at": "2024-08-13T00:43:45Z",
-   "description": "[ARCHIVED] Superseded by https://github.com/Comfy-Org/Comfy-Desktop",
-   "topics": [
-    "ai",
-    "comfyui"
-   ],
-   "category": "ComfyUI & Nodes",
-   "momentum": 58,
-   "rank": 62
-  },
-  {
-   "name": "WebAI2API",
-   "full_name": "foxhui/WebAI2API",
-   "slug": "foxhui-webai2api",
-   "url": "https://github.com/foxhui/WebAI2API",
-   "owner": "foxhui",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/31238038?v=4",
-   "stars": 1251,
-   "forks": 328,
-   "open_issues": 38,
-   "language": "JavaScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-10T04:01:47Z",
-   "created_at": "2025-11-23T13:17:57Z",
-   "description": "WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 | Web AI to OpenAI API via Camoufox. Supports LMArena/Gemini and more, multi-window concurrency & account isolation.",
-   "topics": [
-    "ai-tools",
-    "browser-automation",
-    "generative-ai",
-    "image-generation",
-    "openai-api",
-    "text-generation",
-    "text-to-image",
-    "web-scraping"
-   ],
-   "category": "Image Models",
    "momentum": 58,
    "rank": 63
   },
@@ -2030,10 +2030,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/25426903?v=4",
    "stars": 288,
    "forks": 40,
-   "open_issues": 39,
+   "open_issues": 38,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-17T14:55:33Z",
+   "pushed_at": "2026-08-19T08:39:14Z",
    "created_at": "2020-08-18T09:26:25Z",
    "description": "Generative AI Image and Video Toolset with GANs and Diffusion for Real-World Applications",
    "topics": [
@@ -2057,9 +2057,9 @@
    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
    "owner": "AUTOMATIC1111",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20920490?v=4",
-   "stars": 164556,
-   "forks": 30554,
-   "open_issues": 2502,
+   "stars": 164574,
+   "forks": 30551,
+   "open_issues": 2501,
    "language": "Python",
    "license": "AGPL-3.0",
    "pushed_at": "2026-03-02T07:00:53Z",
@@ -2096,7 +2096,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/18012912?v=4",
    "stars": 253,
    "forks": 27,
-   "open_issues": 16,
+   "open_issues": 17,
    "language": "Jupyter Notebook",
    "license": "MIT",
    "pushed_at": "2026-08-11T15:22:56Z",
@@ -2124,8 +2124,8 @@
    "url": "https://github.com/duixcom/Duix-Avatar",
    "owner": "duixcom",
    "owner_avatar": "https://avatars.githubusercontent.com/u/170155462?v=4",
-   "stars": 14655,
-   "forks": 2470,
+   "stars": 14686,
+   "forks": 2476,
    "open_issues": 420,
    "language": "C",
    "license": "NOASSERTION",
@@ -2170,38 +2170,13 @@
    "rank": 68
   },
   {
-   "name": "PersonaLive",
-   "full_name": "GVCLab/PersonaLive",
-   "slug": "gvclab-personalive",
-   "url": "https://github.com/GVCLab/PersonaLive",
-   "owner": "GVCLab",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/180195227?v=4",
-   "stars": 3537,
-   "forks": 499,
-   "open_issues": 34,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-05-15T07:54:56Z",
-   "created_at": "2025-11-25T14:36:31Z",
-   "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
-   "topics": [
-    "cvpr",
-    "cvpr2026",
-    "talking-head",
-    "video-generation"
-   ],
-   "category": "Video Generation",
-   "momentum": 53,
-   "rank": 69
-  },
-  {
    "name": "Meissonic",
    "full_name": "viiika/Meissonic",
    "slug": "viiika-meissonic",
    "url": "https://github.com/viiika/Meissonic",
    "owner": "viiika",
    "owner_avatar": "https://avatars.githubusercontent.com/u/39821659?v=4",
-   "stars": 345,
+   "stars": 346,
    "forks": 11,
    "open_issues": 3,
    "language": "Python",
@@ -2216,6 +2191,31 @@
    ],
    "category": "Image Models",
    "momentum": 53,
+   "rank": 69
+  },
+  {
+   "name": "PersonaLive",
+   "full_name": "GVCLab/PersonaLive",
+   "slug": "gvclab-personalive",
+   "url": "https://github.com/GVCLab/PersonaLive",
+   "owner": "GVCLab",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/180195227?v=4",
+   "stars": 3540,
+   "forks": 500,
+   "open_issues": 34,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-05-15T07:54:56Z",
+   "created_at": "2025-11-25T14:36:31Z",
+   "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+   "topics": [
+    "cvpr",
+    "cvpr2026",
+    "talking-head",
+    "video-generation"
+   ],
+   "category": "Video Generation",
+   "momentum": 52,
    "rank": 70
   },
   {
@@ -2225,7 +2225,7 @@
    "url": "https://github.com/PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load",
    "owner": "PRITHIVSAKTHIUR",
    "owner_avatar": "https://avatars.githubusercontent.com/u/117709109?v=4",
-   "stars": 128,
+   "stars": 126,
    "forks": 48,
    "open_issues": 0,
    "language": "Python",
@@ -2250,7 +2250,7 @@
     "torchvision"
    ],
    "category": "Diffusion Frameworks",
-   "momentum": 53,
+   "momentum": 52,
    "rank": 71
   },
   {
@@ -2260,9 +2260,9 @@
    "url": "https://github.com/CompVis/stable-diffusion",
    "owner": "CompVis",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30233788?v=4",
-   "stars": 73301,
-   "forks": 10578,
-   "open_issues": 619,
+   "stars": 73306,
+   "forks": 10575,
+   "open_issues": 618,
    "language": "Jupyter Notebook",
    "license": "NOASSERTION",
    "pushed_at": "2024-06-18T01:53:49Z",
@@ -2359,9 +2359,9 @@
    "url": "https://github.com/Wan-Video/Wan2.2",
    "owner": "Wan-Video",
    "owner_avatar": "https://avatars.githubusercontent.com/u/200620180?v=4",
-   "stars": 17178,
-   "forks": 2172,
-   "open_issues": 287,
+   "stars": 17198,
+   "forks": 2174,
+   "open_issues": 289,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-03-17T10:48:41Z",
@@ -2382,8 +2382,8 @@
    "url": "https://github.com/lllyasviel/ControlNet",
    "owner": "lllyasviel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19834515?v=4",
-   "stars": 34076,
-   "forks": 3018,
+   "stars": 34075,
+   "forks": 3017,
    "open_issues": 460,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2402,8 +2402,8 @@
    "url": "https://github.com/ATH-MaaS/ComfyUI-Copilot",
    "owner": "ATH-MaaS",
    "owner_avatar": "https://avatars.githubusercontent.com/u/172576026?v=4",
-   "stars": 5468,
-   "forks": 362,
+   "stars": 5469,
+   "forks": 363,
    "open_issues": 51,
    "language": "TypeScript",
    "license": "MIT",
@@ -2436,7 +2436,7 @@
    "url": "https://github.com/linzhiqiu/t2v_metrics",
    "owner": "linzhiqiu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10042427?v=4",
-   "stars": 599,
+   "stars": 600,
    "forks": 76,
    "open_issues": 5,
    "language": "Python",
@@ -2459,7 +2459,7 @@
    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
    "owner": "Tencent-Hunyuan",
    "owner_avatar": "https://avatars.githubusercontent.com/u/210980732?v=4",
-   "stars": 4528,
+   "stars": 4530,
    "forks": 216,
    "open_issues": 35,
    "language": "Python",
@@ -2483,7 +2483,7 @@
    "url": "https://github.com/yawiii/ComfyUI-Prompt-Assistant",
    "owner": "yawiii",
    "owner_avatar": "https://avatars.githubusercontent.com/u/82788731?v=4",
-   "stars": 2234,
+   "stars": 2239,
    "forks": 119,
    "open_issues": 25,
    "language": "JavaScript",
@@ -2537,8 +2537,8 @@
    "url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
    "owner": "junyanz",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1924757?v=4",
-   "stars": 25221,
-   "forks": 6569,
+   "stars": 25222,
+   "forks": 6570,
    "open_issues": 589,
    "language": "Python",
    "license": "NOASSERTION",
@@ -2569,8 +2569,8 @@
    "url": "https://github.com/Sanster/IOPaint",
    "owner": "Sanster",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3998421?v=4",
-   "stars": 23352,
-   "forks": 2514,
+   "stars": 23353,
+   "forks": 2517,
    "open_issues": 76,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2597,7 +2597,7 @@
    "url": "https://github.com/LingyiChen-AI/AIComicBuilder",
    "owner": "LingyiChen-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/44161003?v=4",
-   "stars": 1782,
+   "stars": 1788,
    "forks": 309,
    "open_issues": 12,
    "language": "TypeScript",
@@ -2668,8 +2668,8 @@
    "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2",
    "owner": "Tencent-Hunyuan",
    "owner_avatar": "https://avatars.githubusercontent.com/u/210980732?v=4",
-   "stars": 14511,
-   "forks": 1506,
+   "stars": 14517,
+   "forks": 1507,
    "open_issues": 244,
    "language": "Python",
    "license": "NOASSERTION",
@@ -2700,7 +2700,7 @@
    "owner": "CompVis",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30233788?v=4",
    "stars": 14128,
-   "forks": 1733,
+   "forks": 1732,
    "open_issues": 292,
    "language": "Jupyter Notebook",
    "license": "MIT",
@@ -2719,7 +2719,7 @@
    "url": "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui",
    "owner": "divamgupta",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1890549?v=4",
-   "stars": 13579,
+   "stars": 13582,
    "forks": 726,
    "open_issues": 402,
    "language": "JavaScript",
@@ -2737,43 +2737,13 @@
    "rank": 89
   },
   {
-   "name": "Infinity",
-   "full_name": "FoundationVision/Infinity",
-   "slug": "foundationvision-infinity",
-   "url": "https://github.com/FoundationVision/Infinity",
-   "owner": "FoundationVision",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/151817217?v=4",
-   "stars": 1587,
-   "forks": 93,
-   "open_issues": 66,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-04-16T03:02:02Z",
-   "created_at": "2024-11-29T07:54:59Z",
-   "description": "[CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis",
-   "topics": [
-    "auto-regressive-model",
-    "autoregressive-models",
-    "generative-model",
-    "gpt",
-    "gpt-2",
-    "image-generation",
-    "text-to-image",
-    "text-to-image-generation",
-    "transformers"
-   ],
-   "category": "Image Models",
-   "momentum": 44,
-   "rank": 90
-  },
-  {
    "name": "CogVideo",
    "full_name": "zai-org/CogVideo",
    "slug": "zai-org-cogvideo",
    "url": "https://github.com/zai-org/CogVideo",
    "owner": "zai-org",
    "owner_avatar": "https://avatars.githubusercontent.com/u/223098841?v=4",
-   "stars": 12958,
+   "stars": 12959,
    "forks": 1327,
    "open_issues": 115,
    "language": "Python",
@@ -2791,7 +2761,7 @@
    ],
    "category": "Video Generation",
    "momentum": 43,
-   "rank": 91
+   "rank": 90
   },
   {
    "name": "CycleGAN",
@@ -2800,7 +2770,7 @@
    "url": "https://github.com/junyanz/CycleGAN",
    "owner": "junyanz",
    "owner_avatar": "https://avatars.githubusercontent.com/u/1924757?v=4",
-   "stars": 12870,
+   "stars": 12871,
    "forks": 1954,
    "open_issues": 59,
    "language": "Lua",
@@ -2823,7 +2793,7 @@
    ],
    "category": "Image Models",
    "momentum": 43,
-   "rank": 92
+   "rank": 91
   },
   {
    "name": "theatre",
@@ -2832,7 +2802,7 @@
    "url": "https://github.com/theatre-js/theatre",
    "owner": "theatre-js",
    "owner_avatar": "https://avatars.githubusercontent.com/u/43993577?v=4",
-   "stars": 12612,
+   "stars": 12615,
    "forks": 472,
    "open_issues": 141,
    "language": "TypeScript",
@@ -2850,7 +2820,7 @@
    ],
    "category": "Image Models",
    "momentum": 43,
-   "rank": 93
+   "rank": 92
   },
   {
    "name": "DALLE2-pytorch",
@@ -2859,9 +2829,9 @@
    "url": "https://github.com/lucidrains/DALLE2-pytorch",
    "owner": "lucidrains",
    "owner_avatar": "https://avatars.githubusercontent.com/u/108653?v=4",
-   "stars": 11306,
-   "forks": 1074,
-   "open_issues": 74,
+   "stars": 11307,
+   "forks": 1072,
+   "open_issues": 73,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2024-05-11T19:18:10Z",
@@ -2874,7 +2844,7 @@
    ],
    "category": "Image Models",
    "momentum": 43,
-   "rank": 94
+   "rank": 93
   },
   {
    "name": "magic-animate",
@@ -2883,8 +2853,8 @@
    "url": "https://github.com/magic-research/magic-animate",
    "owner": "magic-research",
    "owner_avatar": "https://avatars.githubusercontent.com/u/139343765?v=4",
-   "stars": 10900,
-   "forks": 1083,
+   "stars": 10899,
+   "forks": 1082,
    "open_issues": 109,
    "language": "Python",
    "license": "BSD-3-Clause",
@@ -2894,7 +2864,7 @@
    "topics": [],
    "category": "Image Models",
    "momentum": 43,
-   "rank": 95
+   "rank": 94
   },
   {
    "name": "LTX-Video",
@@ -2903,8 +2873,8 @@
    "url": "https://github.com/Lightricks/LTX-Video",
    "owner": "Lightricks",
    "owner_avatar": "https://avatars.githubusercontent.com/u/3170348?v=4",
-   "stars": 10861,
-   "forks": 1111,
+   "stars": 10866,
+   "forks": 1113,
    "open_issues": 99,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2921,7 +2891,7 @@
    ],
    "category": "Video Generation",
    "momentum": 43,
-   "rank": 96
+   "rank": 95
   },
   {
    "name": "aidea",
@@ -2950,7 +2920,7 @@
    ],
    "category": "Image Models",
    "momentum": 43,
-   "rank": 97
+   "rank": 96
   },
   {
    "name": "lite.ai.toolkit",
@@ -2985,7 +2955,7 @@
    ],
    "category": "Image Models",
    "momentum": 43,
-   "rank": 98
+   "rank": 97
   },
   {
    "name": "triangula",
@@ -2994,7 +2964,7 @@
    "url": "https://github.com/rh12503/triangula",
    "owner": "rh12503",
    "owner_avatar": "https://avatars.githubusercontent.com/u/48951973?v=4",
-   "stars": 3874,
+   "stars": 3875,
    "forks": 119,
    "open_issues": 8,
    "language": "Go",
@@ -3017,36 +2987,37 @@
    ],
    "category": "Image Models",
    "momentum": 43,
-   "rank": 99
+   "rank": 98
   },
   {
-   "name": "MagicTime",
-   "full_name": "PKU-YuanGroup/MagicTime",
-   "slug": "pku-yuangroup-magictime",
-   "url": "https://github.com/PKU-YuanGroup/MagicTime",
-   "owner": "PKU-YuanGroup",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/135824553?v=4",
-   "stars": 1339,
-   "forks": 123,
-   "open_issues": 10,
+   "name": "Infinity",
+   "full_name": "FoundationVision/Infinity",
+   "slug": "foundationvision-infinity",
+   "url": "https://github.com/FoundationVision/Infinity",
+   "owner": "FoundationVision",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/151817217?v=4",
+   "stars": 1587,
+   "forks": 93,
+   "open_issues": 66,
    "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-04-14T03:25:38Z",
-   "created_at": "2024-04-07T14:17:15Z",
-   "description": "[TPAMI 2025🔥] MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators",
+   "license": "MIT",
+   "pushed_at": "2026-04-16T03:02:02Z",
+   "created_at": "2024-11-29T07:54:59Z",
+   "description": "[CVPR 2025 Oral]Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis",
    "topics": [
-    "diffusion-models",
-    "long-video-generation",
-    "metamorphic-video-generation",
-    "open-sora-plan",
-    "text-to-video",
-    "time-lapse",
-    "time-lapse-dataset",
-    "video-generation"
+    "auto-regressive-model",
+    "autoregressive-models",
+    "generative-model",
+    "gpt",
+    "gpt-2",
+    "image-generation",
+    "text-to-image",
+    "text-to-image-generation",
+    "transformers"
    ],
-   "category": "Video Generation",
+   "category": "Image Models",
    "momentum": 43,
-   "rank": 100
+   "rank": 99
   },
   {
    "name": "brainrot.js",
@@ -3075,7 +3046,7 @@
    ],
    "category": "Video Generation",
    "momentum": 43,
-   "rank": 101
+   "rank": 100
   },
   {
    "name": "paper2gui",
@@ -3112,7 +3083,7 @@
    ],
    "category": "Image Models",
    "momentum": 42,
-   "rank": 102
+   "rank": 101
   },
   {
    "name": "pix2pix",
@@ -3143,7 +3114,7 @@
    ],
    "category": "Image Models",
    "momentum": 42,
-   "rank": 103
+   "rank": 102
   },
   {
    "name": "neural-doodle",
@@ -3169,7 +3140,7 @@
    ],
    "category": "Editing & Control",
    "momentum": 42,
-   "rank": 104
+   "rank": 103
   },
   {
    "name": "StableStudio",
@@ -3178,7 +3149,7 @@
    "url": "https://github.com/Stability-AI/StableStudio",
    "owner": "Stability-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/100950301?v=4",
-   "stars": 9046,
+   "stars": 9044,
    "forks": 916,
    "open_issues": 62,
    "language": "TypeScript",
@@ -3194,7 +3165,7 @@
    ],
    "category": "Image Models",
    "momentum": 42,
-   "rank": 105
+   "rank": 104
   },
   {
    "name": "stable-dreamfusion",
@@ -3221,7 +3192,7 @@
    ],
    "category": "Image Models",
    "momentum": 42,
-   "rank": 106
+   "rank": 105
   },
   {
    "name": "VAR",
@@ -3254,7 +3225,7 @@
    ],
    "category": "Image Models",
    "momentum": 42,
-   "rank": 107
+   "rank": 106
   },
   {
    "name": "jaaz",
@@ -3263,8 +3234,8 @@
    "url": "https://github.com/11cafe/jaaz",
    "owner": "11cafe",
    "owner_avatar": "https://avatars.githubusercontent.com/u/152708197?v=4",
-   "stars": 6547,
-   "forks": 649,
+   "stars": 6552,
+   "forks": 650,
    "open_issues": 53,
    "language": "TypeScript",
    "license": "NOASSERTION",
@@ -3285,6 +3256,35 @@
     "stable-diffusion"
    ],
    "category": "ComfyUI & Nodes",
+   "momentum": 42,
+   "rank": 107
+  },
+  {
+   "name": "MagicTime",
+   "full_name": "PKU-YuanGroup/MagicTime",
+   "slug": "pku-yuangroup-magictime",
+   "url": "https://github.com/PKU-YuanGroup/MagicTime",
+   "owner": "PKU-YuanGroup",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/135824553?v=4",
+   "stars": 1339,
+   "forks": 123,
+   "open_issues": 10,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-04-14T03:25:38Z",
+   "created_at": "2024-04-07T14:17:15Z",
+   "description": "[TPAMI 2025🔥] MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators",
+   "topics": [
+    "diffusion-models",
+    "long-video-generation",
+    "metamorphic-video-generation",
+    "open-sora-plan",
+    "text-to-video",
+    "time-lapse",
+    "time-lapse-dataset",
+    "video-generation"
+   ],
+   "category": "Video Generation",
    "momentum": 42,
    "rank": 108
   },
@@ -3321,7 +3321,7 @@
    "url": "https://github.com/vietnh1009/ASCII-generator",
    "owner": "vietnh1009",
    "owner_avatar": "https://avatars.githubusercontent.com/u/47221207?v=4",
-   "stars": 8313,
+   "stars": 8314,
    "forks": 654,
    "open_issues": 27,
    "language": "Python",
@@ -3448,8 +3448,8 @@
    "url": "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO",
    "owner": "ZHO-ZHO-ZHO",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140084057?v=4",
-   "stars": 7743,
-   "forks": 714,
+   "stars": 7748,
+   "forks": 716,
    "open_issues": 9,
    "language": "",
    "license": "GPL-3.0",
@@ -3471,7 +3471,7 @@
    "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
    "owner": "XavierXiao",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14303231?v=4",
-   "stars": 7737,
+   "stars": 7736,
    "forks": 795,
    "open_issues": 138,
    "language": "Jupyter Notebook",
@@ -3542,7 +3542,7 @@
    "url": "https://github.com/open-mmlab/mmagic",
    "owner": "open-mmlab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/10245193?v=4",
-   "stars": 7454,
+   "stars": 7455,
    "forks": 1098,
    "open_issues": 68,
    "language": "Jupyter Notebook",
@@ -3582,7 +3582,7 @@
    "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
    "owner": "AbdBarho",
    "owner_avatar": "https://avatars.githubusercontent.com/u/24505302?v=4",
-   "stars": 7312,
+   "stars": 7311,
    "forks": 1253,
    "open_issues": 67,
    "language": "Shell",
@@ -3608,7 +3608,7 @@
    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
    "owner": "AbdullahAlfaraj",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7842232?v=4",
-   "stars": 7287,
+   "stars": 7286,
    "forks": 529,
    "open_issues": 230,
    "language": "TypeScript",
@@ -3639,8 +3639,8 @@
    "url": "https://github.com/nunchaku-ai/nunchaku",
    "owner": "nunchaku-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/220671840?v=4",
-   "stars": 3933,
-   "forks": 275,
+   "stars": 3934,
+   "forks": 276,
    "open_issues": 24,
    "language": "Python",
    "license": "Apache-2.0",
@@ -3721,7 +3721,7 @@
    "url": "https://github.com/swyxio/ai-notes",
    "owner": "swyxio",
    "owner_avatar": "https://avatars.githubusercontent.com/u/6764957?v=4",
-   "stars": 6246,
+   "stars": 6245,
    "forks": 560,
    "open_issues": 9,
    "language": "HTML",
@@ -3749,8 +3749,8 @@
    "url": "https://github.com/Akegarasu/lora-scripts",
    "owner": "Akegarasu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/36563862?v=4",
-   "stars": 6107,
-   "forks": 698,
+   "stars": 6108,
+   "forks": 697,
    "open_issues": 137,
    "language": "Python",
    "license": "AGPL-3.0",
@@ -3774,7 +3774,7 @@
    "url": "https://github.com/bytedance/LatentSync",
    "owner": "bytedance",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4158466?v=4",
-   "stars": 6002,
+   "stars": 6008,
    "forks": 977,
    "open_issues": 228,
    "language": "Python",
@@ -3800,8 +3800,8 @@
    "url": "https://github.com/Fanghua-Yu/SUPIR",
    "owner": "Fanghua-Yu",
    "owner_avatar": "https://avatars.githubusercontent.com/u/73241052?v=4",
-   "stars": 5642,
-   "forks": 476,
+   "stars": 5645,
+   "forks": 475,
    "open_issues": 118,
    "language": "Python",
    "license": "NOASSERTION",
@@ -3857,7 +3857,7 @@
    "url": "https://github.com/Vchitect/VBench",
    "owner": "Vchitect",
    "owner_avatar": "https://avatars.githubusercontent.com/u/145264752?v=4",
-   "stars": 1739,
+   "stars": 1741,
    "forks": 130,
    "open_issues": 73,
    "language": "Python",
@@ -3915,7 +3915,7 @@
    "url": "https://github.com/phodal/understand-prompt",
    "owner": "phodal",
    "owner_avatar": "https://avatars.githubusercontent.com/u/472311?v=4",
-   "stars": 5544,
+   "stars": 5546,
    "forks": 440,
    "open_issues": 0,
    "language": "Jupyter Notebook",
@@ -3941,7 +3941,7 @@
    "url": "https://github.com/philz1337x/clarity-upscaler",
    "owner": "philz1337x",
    "owner_avatar": "https://avatars.githubusercontent.com/u/112502636?v=4",
-   "stars": 5111,
+   "stars": 5113,
    "forks": 536,
    "open_issues": 18,
    "language": "Python",
@@ -4026,7 +4026,7 @@
    "url": "https://github.com/OpenGVLab/DragGAN",
    "owner": "OpenGVLab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/94522163?v=4",
-   "stars": 4948,
+   "stars": 4947,
    "forks": 475,
    "open_issues": 63,
    "language": "Python",
@@ -4052,7 +4052,7 @@
    "url": "https://github.com/Stability-AI/StableSwarmUI",
    "owner": "Stability-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/100950301?v=4",
-   "stars": 4944,
+   "stars": 4945,
    "forks": 400,
    "open_issues": 67,
    "language": "C#",
@@ -4078,7 +4078,7 @@
    "url": "https://github.com/antgroup/echomimic_v2",
    "owner": "antgroup",
    "owner_avatar": "https://avatars.githubusercontent.com/u/37703784?v=4",
-   "stars": 4642,
+   "stars": 4643,
    "forks": 548,
    "open_issues": 76,
    "language": "Python",
@@ -4101,26 +4101,6 @@
    "rank": 137
   },
   {
-   "name": "ERNIE-Image",
-   "full_name": "baidu/ERNIE-Image",
-   "slug": "baidu-ernie-image",
-   "url": "https://github.com/baidu/ERNIE-Image",
-   "owner": "baidu",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/13245940?v=4",
-   "stars": 500,
-   "forks": 34,
-   "open_issues": 12,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-04-17T02:32:44Z",
-   "created_at": "2026-04-14T02:39:44Z",
-   "description": "ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.",
-   "topics": [],
-   "category": "Image Models",
-   "momentum": 39,
-   "rank": 138
-  },
-  {
    "name": "Tune-A-Video",
    "full_name": "showlab/Tune-A-Video",
    "slug": "showlab-tune-a-video",
@@ -4138,7 +4118,7 @@
    "topics": [],
    "category": "Video Generation",
    "momentum": 38,
-   "rank": 139
+   "rank": 138
   },
   {
    "name": "OmniGen",
@@ -4165,7 +4145,7 @@
    ],
    "category": "Editing & Control",
    "momentum": 38,
-   "rank": 140
+   "rank": 139
   },
   {
    "name": "deep-daze",
@@ -4193,7 +4173,7 @@
    ],
    "category": "Image Models",
    "momentum": 38,
-   "rank": 141
+   "rank": 140
   },
   {
    "name": "champ",
@@ -4217,7 +4197,7 @@
    ],
    "category": "Video Generation",
    "momentum": 38,
-   "rank": 142
+   "rank": 141
   },
   {
    "name": "Text2Video-Zero",
@@ -4240,7 +4220,7 @@
    ],
    "category": "Video Generation",
    "momentum": 38,
-   "rank": 143
+   "rank": 142
   },
   {
    "name": "AnyDoor",
@@ -4265,7 +4245,7 @@
    ],
    "category": "Editing & Control",
    "momentum": 38,
-   "rank": 144
+   "rank": 143
   },
   {
    "name": "motion-diffusion-model",
@@ -4285,7 +4265,7 @@
    "topics": [],
    "category": "Image Models",
    "momentum": 38,
-   "rank": 145
+   "rank": 144
   },
   {
    "name": "VACE",
@@ -4294,7 +4274,7 @@
    "url": "https://github.com/ali-vilab/VACE",
    "owner": "ali-vilab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125999365?v=4",
-   "stars": 3925,
+   "stars": 3927,
    "forks": 278,
    "open_issues": 59,
    "language": "Python",
@@ -4308,7 +4288,7 @@
    ],
    "category": "Video Generation",
    "momentum": 38,
-   "rank": 146
+   "rank": 145
   },
   {
    "name": "Image-Super-Resolution-via-Iterative-Refinement",
@@ -4334,7 +4314,7 @@
    ],
    "category": "Editing & Control",
    "momentum": 38,
-   "rank": 147
+   "rank": 146
   },
   {
    "name": "ComfyUI-3D-Pack",
@@ -4343,8 +4323,8 @@
    "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
    "owner": "MrForExample",
    "owner_avatar": "https://avatars.githubusercontent.com/u/62230687?v=4",
-   "stars": 3841,
-   "forks": 373,
+   "stars": 3844,
+   "forks": 374,
    "open_issues": 25,
    "language": "Python",
    "license": "MIT",
@@ -4358,7 +4338,7 @@
    ],
    "category": "ComfyUI & Nodes",
    "momentum": 38,
-   "rank": 148
+   "rank": 147
   },
   {
    "name": "discoart",
@@ -4394,7 +4374,7 @@
    ],
    "category": "Image Models",
    "momentum": 38,
-   "rank": 149
+   "rank": 148
   },
   {
    "name": "web-stable-diffusion",
@@ -4421,7 +4401,7 @@
    ],
    "category": "Image Models",
    "momentum": 38,
-   "rank": 150
+   "rank": 149
   },
   {
    "name": "glide-text2im",
@@ -4431,7 +4411,7 @@
    "owner": "openai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
    "stars": 3686,
-   "forks": 499,
+   "forks": 498,
    "open_issues": 28,
    "language": "Python",
    "license": "MIT",
@@ -4441,7 +4421,7 @@
    "topics": [],
    "category": "Image Models",
    "momentum": 38,
-   "rank": 151
+   "rank": 150
   },
   {
    "name": "SageAttention",
@@ -4450,8 +4430,8 @@
    "url": "https://github.com/thu-ml/SageAttention",
    "owner": "thu-ml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19198992?v=4",
-   "stars": 3650,
-   "forks": 482,
+   "stars": 3654,
+   "forks": 484,
    "open_issues": 205,
    "language": "Cuda",
    "license": "Apache-2.0",
@@ -4474,7 +4454,7 @@
    ],
    "category": "Video Generation",
    "momentum": 38,
-   "rank": 152
+   "rank": 151
   },
   {
    "name": "ArtLine",
@@ -4506,6 +4486,26 @@
    ],
    "category": "Training & Fine-tuning",
    "momentum": 38,
+   "rank": 152
+  },
+  {
+   "name": "ERNIE-Image",
+   "full_name": "baidu/ERNIE-Image",
+   "slug": "baidu-ernie-image",
+   "url": "https://github.com/baidu/ERNIE-Image",
+   "owner": "baidu",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/13245940?v=4",
+   "stars": 500,
+   "forks": 34,
+   "open_issues": 12,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-04-17T02:32:44Z",
+   "created_at": "2026-04-14T02:39:44Z",
+   "description": "ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.",
+   "topics": [],
+   "category": "Image Models",
+   "momentum": 38,
    "rank": 153
   },
   {
@@ -4516,7 +4516,7 @@
    "owner": "kuprel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7465979?v=4",
    "stars": 3495,
-   "forks": 248,
+   "forks": 247,
    "open_issues": 25,
    "language": "Python",
    "license": "MIT",
@@ -4621,8 +4621,8 @@
    "url": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts",
    "owner": "pythongosssss",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125205205?v=4",
-   "stars": 3164,
-   "forks": 273,
+   "stars": 3165,
+   "forks": 274,
    "open_issues": 202,
    "language": "JavaScript",
    "license": "MIT",
@@ -4666,7 +4666,7 @@
    "url": "https://github.com/deepseek-ai/DreamCraft3D",
    "owner": "deepseek-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/148330874?v=4",
-   "stars": 3019,
+   "stars": 3020,
    "forks": 357,
    "open_issues": 35,
    "language": "Python",
@@ -4742,8 +4742,8 @@
    "owner": "nunchaku-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/220671840?v=4",
    "stars": 2915,
-   "forks": 170,
-   "open_issues": 28,
+   "forks": 172,
+   "open_issues": 29,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2026-02-19T07:29:18Z",
@@ -4769,7 +4769,7 @@
    "owner": "TMElyralab",
    "owner_avatar": "https://avatars.githubusercontent.com/u/163981778?v=4",
    "stars": 2847,
-   "forks": 303,
+   "forks": 302,
    "open_issues": 68,
    "language": "Python",
    "license": "NOASSERTION",
@@ -4856,9 +4856,9 @@
    "url": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler",
    "owner": "numz",
    "owner_avatar": "https://avatars.githubusercontent.com/u/800903?v=4",
-   "stars": 2746,
-   "forks": 225,
-   "open_issues": 149,
+   "stars": 2753,
+   "forks": 224,
+   "open_issues": 150,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2025-12-24T08:52:32Z",
@@ -5047,7 +5047,7 @@
    "url": "https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation",
    "owner": "AIGODLIKE",
    "owner_avatar": "https://avatars.githubusercontent.com/u/124877023?v=4",
-   "stars": 2451,
+   "stars": 2452,
    "forks": 167,
    "open_issues": 28,
    "language": "JavaScript",
@@ -5088,37 +5088,6 @@
    "rank": 175
   },
   {
-   "name": "sem2nerf",
-   "full_name": "donydchen/sem2nerf",
-   "slug": "donydchen-sem2nerf",
-   "url": "https://github.com/donydchen/sem2nerf",
-   "owner": "donydchen",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5866866?v=4",
-   "stars": 126,
-   "forks": 8,
-   "open_issues": 1,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-05-06T03:23:07Z",
-   "created_at": "2022-03-21T14:18:07Z",
-   "description": "😺 [ECCV'22] Sem2NeRF: Converting Single-View Semantic Masks to NeRFs",
-   "topics": [
-    "eccv-2022",
-    "eccv2022",
-    "gan",
-    "image-generation",
-    "image-manipulation",
-    "image-to-image",
-    "image-translation",
-    "nerf",
-    "pytorch",
-    "semantic-to-nerf"
-   ],
-   "category": "Image Models",
-   "momentum": 36,
-   "rank": 176
-  },
-  {
    "name": "RePaint",
    "full_name": "andreas128/RePaint",
    "slug": "andreas128-repaint",
@@ -5140,7 +5109,7 @@
    ],
    "category": "Editing & Control",
    "momentum": 35,
-   "rank": 177
+   "rank": 176
   },
   {
    "name": "Lumina-T2X",
@@ -5169,7 +5138,7 @@
    ],
    "category": "Image Models",
    "momentum": 35,
-   "rank": 178
+   "rank": 177
   },
   {
    "name": "sd-ppp",
@@ -5178,7 +5147,7 @@
    "url": "https://github.com/zombieyang/sd-ppp",
    "owner": "zombieyang",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5595819?v=4",
-   "stars": 2144,
+   "stars": 2145,
    "forks": 117,
    "open_issues": 62,
    "language": "JavaScript",
@@ -5200,7 +5169,7 @@
    ],
    "category": "ComfyUI & Nodes",
    "momentum": 35,
-   "rank": 179
+   "rank": 178
   },
   {
    "name": "score_sde_pytorch",
@@ -5209,7 +5178,7 @@
    "url": "https://github.com/yang-song/score_sde_pytorch",
    "owner": "yang-song",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7480450?v=4",
-   "stars": 2128,
+   "stars": 2129,
    "forks": 360,
    "open_issues": 56,
    "language": "Jupyter Notebook",
@@ -5230,7 +5199,7 @@
    ],
    "category": "Image Models",
    "momentum": 35,
-   "rank": 180
+   "rank": 179
   },
   {
    "name": "ICEdit",
@@ -5260,7 +5229,7 @@
    ],
    "category": "Training & Fine-tuning",
    "momentum": 35,
-   "rank": 181
+   "rank": 180
   },
   {
    "name": "zero123plus",
@@ -5289,7 +5258,7 @@
    ],
    "category": "Diffusion Frameworks",
    "momentum": 35,
-   "rank": 182
+   "rank": 181
   },
   {
    "name": "diamond",
@@ -5298,7 +5267,7 @@
    "url": "https://github.com/eloialonso/diamond",
    "owner": "eloialonso",
    "owner_avatar": "https://avatars.githubusercontent.com/u/32040353?v=4",
-   "stars": 2090,
+   "stars": 2092,
    "forks": 164,
    "open_issues": 8,
    "language": "Python",
@@ -5318,7 +5287,7 @@
    ],
    "category": "Image Models",
    "momentum": 35,
-   "rank": 183
+   "rank": 182
   },
   {
    "name": "triangle",
@@ -5327,7 +5296,7 @@
    "url": "https://github.com/esimov/triangle",
    "owner": "esimov",
    "owner_avatar": "https://avatars.githubusercontent.com/u/883386?v=4",
-   "stars": 2068,
+   "stars": 2069,
    "forks": 110,
    "open_issues": 2,
    "language": "Go",
@@ -5347,7 +5316,7 @@
    ],
    "category": "Image Models",
    "momentum": 35,
-   "rank": 184
+   "rank": 183
   },
   {
    "name": "art-DCGAN",
@@ -5372,7 +5341,7 @@
    ],
    "category": "Image Models",
    "momentum": 35,
-   "rank": 185
+   "rank": 184
   },
   {
    "name": "make-a-video-pytorch",
@@ -5398,7 +5367,7 @@
    ],
    "category": "Video Generation",
    "momentum": 35,
-   "rank": 186
+   "rank": 185
   },
   {
    "name": "onediff",
@@ -5436,7 +5405,7 @@
    ],
    "category": "ComfyUI & Nodes",
    "momentum": 35,
-   "rank": 187
+   "rank": 186
   },
   {
    "name": "carefree-creator",
@@ -5468,7 +5437,7 @@
    ],
    "category": "Editing & Control",
    "momentum": 35,
-   "rank": 188
+   "rank": 187
   },
   {
    "name": "Make-It-3D",
@@ -5493,6 +5462,37 @@
     "diffusion-models",
     "generative-art",
     "nerf"
+   ],
+   "category": "Image Models",
+   "momentum": 35,
+   "rank": 188
+  },
+  {
+   "name": "sem2nerf",
+   "full_name": "donydchen/sem2nerf",
+   "slug": "donydchen-sem2nerf",
+   "url": "https://github.com/donydchen/sem2nerf",
+   "owner": "donydchen",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5866866?v=4",
+   "stars": 126,
+   "forks": 8,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-05-06T03:23:07Z",
+   "created_at": "2022-03-21T14:18:07Z",
+   "description": "😺 [ECCV'22] Sem2NeRF: Converting Single-View Semantic Masks to NeRFs",
+   "topics": [
+    "eccv-2022",
+    "eccv2022",
+    "gan",
+    "image-generation",
+    "image-manipulation",
+    "image-to-image",
+    "image-translation",
+    "nerf",
+    "pytorch",
+    "semantic-to-nerf"
    ],
    "category": "Image Models",
    "momentum": 35,
@@ -5583,7 +5583,7 @@
    "url": "https://github.com/TencentARC/BrushNet",
    "owner": "TencentARC",
    "owner_avatar": "https://avatars.githubusercontent.com/u/83739826?v=4",
-   "stars": 1743,
+   "stars": 1744,
    "forks": 146,
    "open_issues": 56,
    "language": "Python",
@@ -5812,7 +5812,7 @@
    "url": "https://github.com/Phantom-video/Phantom",
    "owner": "Phantom-video",
    "owner_avatar": "https://avatars.githubusercontent.com/u/198594796?v=4",
-   "stars": 1516,
+   "stars": 1517,
    "forks": 98,
    "open_issues": 41,
    "language": "Python",
@@ -5837,7 +5837,7 @@
    "url": "https://github.com/video-db/Director",
    "owner": "video-db",
    "owner_avatar": "https://avatars.githubusercontent.com/u/153916972?v=4",
-   "stars": 1514,
+   "stars": 1515,
    "forks": 249,
    "open_issues": 20,
    "language": "Python",
@@ -5943,7 +5943,7 @@
    "url": "https://github.com/AsPJT/DungeonTemplateLibrary",
    "owner": "AsPJT",
    "owner_avatar": "https://avatars.githubusercontent.com/u/30593725?v=4",
-   "stars": 1456,
+   "stars": 1457,
    "forks": 89,
    "open_issues": 3,
    "language": "C++",
@@ -6082,7 +6082,7 @@
    "url": "https://github.com/bytedance/UNO",
    "owner": "bytedance",
    "owner_avatar": "https://avatars.githubusercontent.com/u/4158466?v=4",
-   "stars": 1361,
+   "stars": 1362,
    "forks": 79,
    "open_issues": 30,
    "language": "Python",
@@ -6111,7 +6111,7 @@
    "url": "https://github.com/mayuelala/FollowYourPose",
    "owner": "mayuelala",
    "owner_avatar": "https://avatars.githubusercontent.com/u/38033523?v=4",
-   "stars": 1359,
+   "stars": 1358,
    "forks": 96,
    "open_issues": 12,
    "language": "Python",
@@ -6418,7 +6418,7 @@
    "url": "https://github.com/lukasHoel/text2room",
    "owner": "lukasHoel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/36296213?v=4",
-   "stars": 1087,
+   "stars": 1088,
    "forks": 75,
    "open_issues": 1,
    "language": "Python",
@@ -6469,6 +6469,35 @@
    "rank": 224
   },
   {
+   "name": "HunyuanVideo-Foley",
+   "full_name": "Tencent-Hunyuan/HunyuanVideo-Foley",
+   "slug": "tencent-hunyuan-hunyuanvideo-foley",
+   "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley",
+   "owner": "Tencent-Hunyuan",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/210980732?v=4",
+   "stars": 1049,
+   "forks": 103,
+   "open_issues": 23,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2025-09-28T17:48:49Z",
+   "created_at": "2025-08-15T06:44:09Z",
+   "description": "HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation.",
+   "topics": [
+    "aigc-audio",
+    "foley-art",
+    "foley-sound-synthesis",
+    "text-to-audio",
+    "text-to-video",
+    "text-video-to-audio",
+    "tta",
+    "video-to-audio"
+   ],
+   "category": "Video Generation",
+   "momentum": 32,
+   "rank": 225
+  },
+  {
    "name": "MotionDirector",
    "full_name": "showlab/MotionDirector",
    "slug": "showlab-motiondirector",
@@ -6490,35 +6519,6 @@
     "text-to-video",
     "text-to-video-generation",
     "video-generation"
-   ],
-   "category": "Video Generation",
-   "momentum": 32,
-   "rank": 225
-  },
-  {
-   "name": "HunyuanVideo-Foley",
-   "full_name": "Tencent-Hunyuan/HunyuanVideo-Foley",
-   "slug": "tencent-hunyuan-hunyuanvideo-foley",
-   "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley",
-   "owner": "Tencent-Hunyuan",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/210980732?v=4",
-   "stars": 1046,
-   "forks": 103,
-   "open_issues": 23,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2025-09-28T17:48:49Z",
-   "created_at": "2025-08-15T06:44:09Z",
-   "description": "HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation.",
-   "topics": [
-    "aigc-audio",
-    "foley-art",
-    "foley-sound-synthesis",
-    "text-to-audio",
-    "text-to-video",
-    "text-video-to-audio",
-    "tta",
-    "video-to-audio"
    ],
    "category": "Video Generation",
    "momentum": 32,
@@ -6623,7 +6623,7 @@
    "owner": "NVlabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/2695301?v=4",
    "stars": 943,
-   "forks": 60,
+   "forks": 61,
    "open_issues": 57,
    "language": "Python",
    "license": "NOASSERTION",
@@ -6783,8 +6783,8 @@
    "url": "https://github.com/lllyasviel/LuminaBrush",
    "owner": "lllyasviel",
    "owner_avatar": "https://avatars.githubusercontent.com/u/19834515?v=4",
-   "stars": 777,
-   "forks": 138,
+   "stars": 778,
+   "forks": 139,
    "open_issues": 17,
    "language": "",
    "license": "",
@@ -6982,7 +6982,7 @@
    "owner": "kakaobrain",
    "owner_avatar": "https://avatars.githubusercontent.com/u/25736994?v=4",
    "stars": 631,
-   "forks": 65,
+   "forks": 64,
    "open_issues": 10,
    "language": "Python",
    "license": "NOASSERTION",
@@ -7244,7 +7244,7 @@
    "url": "https://github.com/Royalvice/DocDiff",
    "owner": "Royalvice",
    "owner_avatar": "https://avatars.githubusercontent.com/u/55864410?v=4",
-   "stars": 350,
+   "stars": 351,
    "forks": 33,
    "open_issues": 19,
    "language": "Python",
@@ -7301,7 +7301,7 @@
    "url": "https://github.com/Bria-AI/FIBO",
    "owner": "Bria-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/66570685?v=4",
-   "stars": 330,
+   "stars": 332,
    "forks": 19,
    "open_issues": 5,
    "language": "Python",
