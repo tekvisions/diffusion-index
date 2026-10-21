@@ -3,48 +3,48 @@
 > The living index of AI image & video generation tooling — diffusion frameworks,
 > video models, ComfyUI nodes, training & editing — ranked daily by GitHub momentum.
 
-Updated: 2026-10-20T14:13:57.373670+00:00
-Tools indexed: 266
+Updated: 2026-10-21T14:25:50.175390+00:00
+Tools indexed: 267
 
 ## Top generation tools by momentum
 
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — momentum 86, ⭐140433 — ComfyUI & Nodes — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) — momentum 84, ⭐78308 — Diffusion Frameworks — Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniM
-- [hypit-ai/hypit](https://github.com/hypit-ai/hypit) — momentum 82, ⭐24259 — Video Generation — Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the word
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) — momentum 80, ⭐34769 — Diffusion Frameworks — 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
-- [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic) — momentum 80, ⭐3678 — Video Generation — Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — momentum 79, ⭐31002 — Diffusion Frameworks — Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) — momentum 79, ⭐28781 — WebUIs & Apps — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, 
-- [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) — momentum 77, ⭐1112 — Training & Fine-tuning — Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, 
-- [vercel/satori](https://github.com/vercel/satori) — momentum 76, ⭐14111 — Image Models — Enlightened library to convert HTML and CSS to SVG
-- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) — momentum 76, ⭐13759 — Video Generation — Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powere
-- [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) — momentum 76, ⭐2173 — Video Generation — Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM 
-- [latent-spaces/brag](https://github.com/latent-spaces/brag) — momentum 75, ⭐17084 — Video Generation — You built it. Now brag. Turn the project you just created into a short, shareable launch video with 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — momentum 86, ⭐141266 — ComfyUI & Nodes — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) — momentum 84, ⭐78364 — Diffusion Frameworks — Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniM
+- [hypit-ai/hypit](https://github.com/hypit-ai/hypit) — momentum 82, ⭐24549 — Video Generation — Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the word
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) — momentum 80, ⭐34776 — Diffusion Frameworks — 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — momentum 79, ⭐31125 — Diffusion Frameworks — Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) — momentum 79, ⭐28804 — WebUIs & Apps — Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, 
+- [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) — momentum 77, ⭐1244 — Training & Fine-tuning — Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, 
+- [vercel/satori](https://github.com/vercel/satori) — momentum 76, ⭐14119 — Image Models — Enlightened library to convert HTML and CSS to SVG
+- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) — momentum 76, ⭐13794 — Video Generation — Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powere
+- [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) — momentum 76, ⭐2206 — Video Generation — Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM 
+- [latent-spaces/brag](https://github.com/latent-spaces/brag) — momentum 75, ⭐17277 — Video Generation — You built it. Now brag. Turn the project you just created into a short, shareable launch video with 
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) — momentum 74, ⭐10475 — WebUIs & Apps — An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provide
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) — momentum 74, ⭐9412 — Video Generation — SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
-- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) — momentum 73, ⭐12637 — Video Generation — HunyuanVideo: A Systematic Framework For Large Video Generation Model
-- [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) — momentum 73, ⭐8928 — ComfyUI & Nodes — Multi-Platform Package Manager for Stable Diffusion
-- [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) — momentum 73, ⭐7971 — Image Models — Run Stable Diffusion on Mac natively
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) — momentum 73, ⭐7742 — Diffusion Frameworks — Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
-- [Osmantic/ODS](https://github.com/Osmantic/ODS) — momentum 73, ⭐7601 — ComfyUI & Nodes — ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) — momentum 74, ⭐9414 — Video Generation — SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) — momentum 74, ⭐8937 — ComfyUI & Nodes — Multi-Platform Package Manager for Stable Diffusion
+- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) — momentum 73, ⭐12643 — Video Generation — HunyuanVideo: A Systematic Framework For Large Video Generation Model
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) — momentum 73, ⭐7747 — Diffusion Frameworks — Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+- [Osmantic/ODS](https://github.com/Osmantic/ODS) — momentum 73, ⭐7621 — ComfyUI & Nodes — ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac
 - [vladmandic/sdnext](https://github.com/vladmandic/sdnext) — momentum 73, ⭐7357 — WebUIs & Apps — SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing
-- [civitai/civitai](https://github.com/civitai/civitai) — momentum 73, ⭐7280 — Training & Fine-tuning — A repository of models, textual inversions, and more
-- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) — momentum 73, ⭐7274 — Video Generation — A framework for efficient model inference with omni-modality models
-- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) — momentum 72, ⭐18046 — Video Generation — Wan: Open and Advanced Large-Scale Video Generative Models
-- [HKUDS/ViMax](https://github.com/HKUDS/ViMax) — momentum 72, ⭐12708 — Video Generation — "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
-- [dramaclaw/dramaclaw](https://github.com/dramaclaw/dramaclaw) — momentum 72, ⭐6382 — Video Generation — A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product 
-- [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) — momentum 72, ⭐5616 — Video Generation — AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video work
-- [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) — momentum 71, ⭐14617 — Video Generation — 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video produ
-- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) — momentum 71, ⭐10746 — Editing & Control — Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional tex
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) — momentum 73, ⭐7288 — Video Generation — A framework for efficient model inference with omni-modality models
+- [civitai/civitai](https://github.com/civitai/civitai) — momentum 73, ⭐7281 — Training & Fine-tuning — A repository of models, textual inversions, and more
+- [alexgreensh/anidoodle](https://github.com/alexgreensh/anidoodle) — momentum 73, ⭐1021 — Image Models — Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and sco
+- [HKUDS/ViMax](https://github.com/HKUDS/ViMax) — momentum 72, ⭐12718 — Video Generation — "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+- [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) — momentum 72, ⭐7971 — Image Models — Run Stable Diffusion on Mac natively
+- [dramaclaw/dramaclaw](https://github.com/dramaclaw/dramaclaw) — momentum 72, ⭐6387 — Video Generation — A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product 
+- [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) — momentum 72, ⭐5638 — Video Generation — AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video work
+- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) — momentum 71, ⭐18076 — Video Generation — Wan: Open and Advanced Large-Scale Video Generative Models
+- [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) — momentum 71, ⭐14644 — Video Generation — 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video produ
+- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) — momentum 71, ⭐10754 — Editing & Control — Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional tex
 - [williamngan/pts](https://github.com/williamngan/pts) — momentum 71, ⭐5355 — Image Models — A library for visualization and creative-coding
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) — momentum 71, ⭐5197 — Training & Fine-tuning — The open source research environment for AI researchers to seamlessly train, evaluate, and scale mod
-- [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) — momentum 71, ⭐4690 — ComfyUI & Nodes — SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on
-- [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) — momentum 71, ⭐4633 — Diffusion Frameworks — A unified inference and post-training framework for accelerated video generation.
+- [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) — momentum 71, ⭐4696 — ComfyUI & Nodes — SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on
+- [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) — momentum 71, ⭐4669 — Diffusion Frameworks — A unified inference and post-training framework for accelerated video generation.
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) — momentum 70, ⭐4940 — Image Models — StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools 
-- [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) — momentum 70, ⭐4486 — Video Generation — 🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, write
-- [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) — momentum 70, ⭐4207 — ComfyUI & Nodes — LTX-Video Support for ComfyUI
-- [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo) — momentum 69, ⭐3826 — Image Models — Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) mo
-- [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) — momentum 68, ⭐6187 — Training & Fine-tuning — SD-Trainer. LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
-- [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) — momentum 68, ⭐3927 — Editing & Control — 基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具
-- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) — momentum 68, ⭐2942 — Diffusion Frameworks — A general fine-tuning kit geared toward image/video/audio diffusion models.
-- [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) — momentum 68, ⭐2929 — Diffusion Frameworks — Lightweight Image Video Action Generation Inference Framework
+- [darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) — momentum 70, ⭐4502 — Video Generation — 🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, write
+- [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) — momentum 70, ⭐4208 — ComfyUI & Nodes — LTX-Video Support for ComfyUI
+- [nv-tlabs/kimodo](https://github.com/nv-tlabs/kimodo) — momentum 69, ⭐3859 — Image Models — Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) mo
+- [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) — momentum 69, ⭐2945 — Diffusion Frameworks — A general fine-tuning kit geared toward image/video/audio diffusion models.
+- [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) — momentum 69, ⭐2932 — Diffusion Frameworks — Lightweight Image Video Action Generation Inference Framework
+- [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) — momentum 68, ⭐6192 — Training & Fine-tuning — SD-Trainer. LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
+- [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) — momentum 68, ⭐3933 — Editing & Control — 基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具
