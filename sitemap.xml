@@ -19,12 +19,12 @@
   <url><loc>https://diffusion.kymatalabs.com/p/vllm-project-vllm-omni/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/vladmandic-sdnext/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/civitai-civitai/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://diffusion.kymatalabs.com/p/kaomei-stickman-video-director/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/alexgreensh-anidoodle/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/lykosai-stabilitymatrix/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/mochidiffusion-mochidiffusion/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/dramaclaw-dramaclaw/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/arcreel-arcreel/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://diffusion.kymatalabs.com/p/kaomei-stickman-video-director/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/tencent-hunyuan-hunyuanvideo/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/williamngan-pts/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/transformerlab-transformerlab-app/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -39,18 +39,18 @@
   <url><loc>https://diffusion.kymatalabs.com/p/lightricks-comfyui-ltxvideo/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/cooksleep-gpt-image-playground/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/rgthree-rgthree-comfy/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://diffusion.kymatalabs.com/p/modeltc-lightx2v/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://diffusion.kymatalabs.com/p/stability-ai-stableswarmui/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/purpledoubled-locally-uncensored/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://diffusion.kymatalabs.com/p/modeltc-lightx2v/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/bghira-simpletuner/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://diffusion.kymatalabs.com/p/stability-ai-stableswarmui/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/heshengtao-super-agent-party/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/nv-tlabs-kimodo/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/maximevandegar-papers-in-100-lines-of-code/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/tavris1-comfyui-easy-install/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://diffusion.kymatalabs.com/p/wasasquatch-was-node-suite-comfyui/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/carson-katri-dream-textures/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/akegarasu-lora-scripts/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/1038lab-comfyui-rmbg/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://diffusion.kymatalabs.com/p/wasasquatch-was-node-suite-comfyui/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/yanwenkun-comfyui-docker/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/capsize-games-airunner/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/sepandhaghighi-samila/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -72,10 +72,10 @@
   <url><loc>https://diffusion.kymatalabs.com/p/jolibrain-joligen/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/hunyuan-promptenhancer-promptenhancer/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/viiika-meissonic/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://diffusion.kymatalabs.com/p/pku-yuangroup-helios/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/mengto-kage/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/automatic1111-stable-diffusion-webui/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/ath-maas-pixelle-video/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://diffusion.kymatalabs.com/p/pku-yuangroup-helios/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/bria-ai-fibo/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/astropuzzo-comfyui-minimax-h3-image-studio/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/knplabs-snappy/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -84,9 +84,9 @@
   <url><loc>https://diffusion.kymatalabs.com/p/jd-opensource-joyai-image/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/apple-aiml-research-ml-mdm/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/compvis-stable-diffusion/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://diffusion.kymatalabs.com/p/klingairesearch-liveportrait/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/robbyant-lingbot-world/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/vast-ai-research-triposplat/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://diffusion.kymatalabs.com/p/klingairesearch-liveportrait/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/lllyasviel-controlnet/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/nexu-io-html-video/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://diffusion.kymatalabs.com/p/junyanz-pytorch-cyclegan-and-pix2pix/</loc><lastmod>2026-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
