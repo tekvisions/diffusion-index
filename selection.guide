@@ -1,0 +1,60 @@
+{
+  "host": "diffusion.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose image and video tools by the operation you need",
+  "answer": "An image model, a workflow UI, an editing component and a training tool solve different parts of a generation workflow. Start with input/output requirements and verify a specific model plus runtime combination.",
+  "choices": [
+    {
+      "categories": [
+        "Image Models",
+        "Video Generation"
+      ],
+      "task": "Generate the required output",
+      "guidance": "Check the model card, license, inputs, output constraints and runtime requirements. Evaluate prompts relevant to your intended use rather than adopting unrelated showcase results."
+    },
+    {
+      "categories": [
+        "ComfyUI & Nodes",
+        "Editing & Control",
+        "WebUIs & Apps"
+      ],
+      "task": "Control an existing workflow",
+      "guidance": "Confirm the exact node/plugin version, dependencies and supported checkpoints. For editing or restoration, compare the output with your source images and expected constraints."
+    },
+    {
+      "categories": [
+        "Training & Fine-tuning",
+        "Diffusion Frameworks"
+      ],
+      "task": "Adapt or build a pipeline",
+      "guidance": "Verify the training recipe, dataset requirements and reproducibility information. Keep checkpoint/runtime revisions with the resulting workflow."
+    }
+  ],
+  "checks": [
+    "Record model, runtime, precision, resolution, hardware and generation settings.",
+    "Review code and model licenses independently using primary documentation.",
+    "A project leaving the current discovery snapshot does not by itself establish obsolescence; retained references are labeled separately."
+  ],
+  "unknowns": "Comparative image/video quality, speed, memory use and suitability have not been benchmarked by this directory.",
+  "related": [
+    {
+      "url": "https://finetune.kymatalabs.com/",
+      "label": "finetune"
+    },
+    {
+      "url": "https://localllm.kymatalabs.com/",
+      "label": "localllm"
+    },
+    {
+      "url": "https://modelradar.kymatalabs.com/",
+      "label": "modelradar"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/diffusion-index/blob/a70be2c59708547903b54b4d8860cc750a100c30/build_data.py",
+      "reviewed_on": "2026-11-03"
+    }
+  ]
+}
