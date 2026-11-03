@@ -2,7 +2,7 @@
 
 > The Diffusion Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-02T19:22:53.822240+00:00
+Snapshot collected: 2026-11-03T16:56:28.829651+00:00
 Current catalog records: 265
 
 ## Sources and interpretation
@@ -30,9 +30,10 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [invoke-ai/InvokeAI](https://diffusion.kymatalabs.com/p/invoke-ai-invokeai/) — WebUIs & Apps
 - [OpenMOSS/MOSS-Image](https://diffusion.kymatalabs.com/p/openmoss-moss-image/) — Training & Fine-tuning
 - [kevinraymond/florilegium](https://diffusion.kymatalabs.com/p/kevinraymond-florilegium/) — Image Models
-- [latent-spaces/brag](https://diffusion.kymatalabs.com/p/latent-spaces-brag/) — Video Generation
 - [krillinai/OpenCreator](https://diffusion.kymatalabs.com/p/krillinai-opencreator/) — Video Generation
 - [FlashML-org/FreeVideo](https://diffusion.kymatalabs.com/p/flashml-org-freevideo/) — Video Generation
+- [latent-spaces/brag](https://diffusion.kymatalabs.com/p/latent-spaces-brag/) — Video Generation
+- [Lightricks/LTX-Video](https://diffusion.kymatalabs.com/p/lightricks-ltx-video/) — Video Generation
 - [vercel/satori](https://diffusion.kymatalabs.com/p/vercel-satori/) — Image Models
 - [easydiffusion/easydiffusion](https://diffusion.kymatalabs.com/p/easydiffusion-easydiffusion/) — WebUIs & Apps
 - [NVlabs/Sana](https://diffusion.kymatalabs.com/p/nvlabs-sana/) — Video Generation
@@ -42,11 +43,11 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [vllm-project/vllm-omni](https://diffusion.kymatalabs.com/p/vllm-project-vllm-omni/) — Video Generation
 - [vladmandic/sdnext](https://diffusion.kymatalabs.com/p/vladmandic-sdnext/) — WebUIs & Apps
 - [civitai/civitai](https://diffusion.kymatalabs.com/p/civitai-civitai/) — Training & Fine-tuning
-- [kaomei/stickman-video-director](https://diffusion.kymatalabs.com/p/kaomei-stickman-video-director/) — Video Generation
-- [alexgreensh/anidoodle](https://diffusion.kymatalabs.com/p/alexgreensh-anidoodle/) — Image Models
 - [dramaclaw/dramaclaw](https://diffusion.kymatalabs.com/p/dramaclaw-dramaclaw/) — Video Generation
+- [kaomei/stickman-video-director](https://diffusion.kymatalabs.com/p/kaomei-stickman-video-director/) — Video Generation
 - [Akegarasu/lora-scripts](https://diffusion.kymatalabs.com/p/akegarasu-lora-scripts/) — Training & Fine-tuning
 - [ArcReel/ArcReel](https://diffusion.kymatalabs.com/p/arcreel-arcreel/) — Video Generation
+- [alexgreensh/anidoodle](https://diffusion.kymatalabs.com/p/alexgreensh-anidoodle/) — Image Models
 - [Tencent-Hunyuan/HunyuanVideo](https://diffusion.kymatalabs.com/p/tencent-hunyuan-hunyuanvideo/) — Video Generation
 - [LykosAI/StabilityMatrix](https://diffusion.kymatalabs.com/p/lykosai-stabilitymatrix/) — ComfyUI & Nodes
 - [hao-ai-lab/FastVideo](https://diffusion.kymatalabs.com/p/hao-ai-lab-fastvideo/) — Diffusion Frameworks
@@ -61,7 +62,6 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [Acly/krita-ai-diffusion](https://diffusion.kymatalabs.com/p/acly-krita-ai-diffusion/) — Editing & Control
 - [rgthree/rgthree-comfy](https://diffusion.kymatalabs.com/p/rgthree-rgthree-comfy/) — ComfyUI & Nodes
 - [PurpleDoubleD/locally-uncensored](https://diffusion.kymatalabs.com/p/purpledoubled-locally-uncensored/) — Diffusion Frameworks
-- [ModelTC/LightX2V](https://diffusion.kymatalabs.com/p/modeltc-lightx2v/) — Diffusion Frameworks
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
