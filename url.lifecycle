@@ -312,11 +312,30 @@
           "blob_sha": "c12d1ab5eaa5d6ec51c95d0cc9d35e1411ed7267"
         }
       ]
+    },
+    {
+      "slug": "vast-ai-research-triposplat",
+      "entity": "VAST-AI-Research/TripoSplat",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/vast-ai-research-triposplat/",
+      "repository": "https://github.com/VAST-AI-Research/TripoSplat",
+      "summary": "An inference project that generates 3D Gaussian representations from an image, with documented ComfyUI integration.",
+      "selection_context": "Compare image-to-3D Gaussian asset workflows.",
+      "limitations": "Check weights, compute requirements, licensing and renderer compatibility; no new quality or speed benchmark is claimed.",
+      "last_catalog_snapshot": "2026-11-03T16:56:28.829651+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/VAST-AI-Research/TripoSplat/blob/main/README.md",
+          "title": "VAST-AI-Research/TripoSplat publisher documentation"
+        }
+      ]
     }
   ],
   "retirements": [],
   "planned_release_urls": [
     "https://diffusion.kymatalabs.com/p/microsoft-mage/"
   ],
-  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
+  "site_name": "The Diffusion Index",
+  "detail_prefix": "p"
 }
