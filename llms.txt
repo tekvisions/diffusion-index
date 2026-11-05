@@ -2,7 +2,7 @@
 
 > The Diffusion Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-05T17:15:18.974049+00:00
+Snapshot collected: 2026-11-05T20:42:51.826317+00:00
 Current catalog records: 266
 
 ## Sources and interpretation
@@ -31,14 +31,13 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [OpenMOSS/MOSS-Image](https://diffusion.kymatalabs.com/p/openmoss-moss-image/) — Training & Fine-tuning
 - [kevinraymond/florilegium](https://diffusion.kymatalabs.com/p/kevinraymond-florilegium/) — Image Models
 - [D3voz/openjutsu](https://diffusion.kymatalabs.com/p/d3voz-openjutsu/) — ComfyUI & Nodes
-- [krillinai/OpenCreator](https://diffusion.kymatalabs.com/p/krillinai-opencreator/) — Video Generation
 - [latent-spaces/brag](https://diffusion.kymatalabs.com/p/latent-spaces-brag/) — Video Generation
+- [krillinai/OpenCreator](https://diffusion.kymatalabs.com/p/krillinai-opencreator/) — Video Generation
 - [FlashML-org/FreeVideo](https://diffusion.kymatalabs.com/p/flashml-org-freevideo/) — Video Generation
 - [Lightricks/LTX-Video](https://diffusion.kymatalabs.com/p/lightricks-ltx-video/) — Video Generation
 - [easydiffusion/easydiffusion](https://diffusion.kymatalabs.com/p/easydiffusion-easydiffusion/) — WebUIs & Apps
 - [NVlabs/Sana](https://diffusion.kymatalabs.com/p/nvlabs-sana/) — Diffusion Frameworks
 - [vercel/satori](https://diffusion.kymatalabs.com/p/vercel-satori/) — Image Models
-- [MochiDiffusion/MochiDiffusion](https://diffusion.kymatalabs.com/p/mochidiffusion-mochidiffusion/) — Image Models
 - [leejet/stable-diffusion.cpp](https://diffusion.kymatalabs.com/p/leejet-stable-diffusion-cpp/) — Diffusion Frameworks
 - [Osmantic/ODS](https://diffusion.kymatalabs.com/p/osmantic-ods/) — ComfyUI & Nodes
 - [vllm-project/vllm-omni](https://diffusion.kymatalabs.com/p/vllm-project-vllm-omni/) — Video Generation
@@ -46,9 +45,10 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [civitai/civitai](https://diffusion.kymatalabs.com/p/civitai-civitai/) — Training & Fine-tuning
 - [dramaclaw/dramaclaw](https://diffusion.kymatalabs.com/p/dramaclaw-dramaclaw/) — Video Generation
 - [kaomei/stickman-video-director](https://diffusion.kymatalabs.com/p/kaomei-stickman-video-director/) — Video Generation
+- [alexgreensh/anidoodle](https://diffusion.kymatalabs.com/p/alexgreensh-anidoodle/) — Image Models
+- [MochiDiffusion/MochiDiffusion](https://diffusion.kymatalabs.com/p/mochidiffusion-mochidiffusion/) — Image Models
 - [Akegarasu/lora-scripts](https://diffusion.kymatalabs.com/p/akegarasu-lora-scripts/) — Training & Fine-tuning
 - [ArcReel/ArcReel](https://diffusion.kymatalabs.com/p/arcreel-arcreel/) — Video Generation
-- [alexgreensh/anidoodle](https://diffusion.kymatalabs.com/p/alexgreensh-anidoodle/) — Image Models
 - [LykosAI/StabilityMatrix](https://diffusion.kymatalabs.com/p/lykosai-stabilitymatrix/) — ComfyUI & Nodes
 - [transformerlab/transformerlab-app](https://diffusion.kymatalabs.com/p/transformerlab-transformerlab-app/) — Training & Fine-tuning
 - [hao-ai-lab/FastVideo](https://diffusion.kymatalabs.com/p/hao-ai-lab-fastvideo/) — Diffusion Frameworks
