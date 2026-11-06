@@ -329,6 +329,48 @@
           "title": "VAST-AI-Research/TripoSplat publisher documentation"
         }
       ]
+    },
+    {
+      "slug": "doubiiu-dynamicrafter",
+      "entity": "Doubiiu/DynamiCrafter",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/doubiiu-dynamicrafter/",
+      "repository": "https://github.com/Doubiiu/DynamiCrafter",
+      "summary": "DynamiCrafter is a research implementation for animating still images using video diffusion priors.",
+      "selection_context": "Trace the image-to-video research implementation and its documented checkpoints.",
+      "limitations": "Check checkpoint terms, memory requirements and implementation limitations; animation quality and current dependency compatibility were not tested.",
+      "last_catalog_snapshot": "2026-11-05T20:42:51.826317+00:00",
+      "reviewed_on": "2026-11-06",
+      "last_successful_source_commit": "9ad98812e5c2a406865d39f3e33b4b026de175c4",
+      "decision": "retain published route as a dated unranked reference when absent from current discovery",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Doubiiu/DynamiCrafter/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "59c6b363ad7933b3d9cc77deb538b7e0deb68a265341057c20b2f42945671954",
+          "blob_sha": "7cbb2a055c2f60d3fbc65716d4c47e401ad62135"
+        }
+      ]
+    },
+    {
+      "slug": "zho-zho-zho-comfyui-instantid",
+      "entity": "ZHO-ZHO-ZHO/ComfyUI-InstantID",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/zho-zho-zho-comfyui-instantid/",
+      "repository": "https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID",
+      "summary": "This repository documents an unofficial InstantID implementation for ComfyUI, including face-reference and pose-reference nodes.",
+      "selection_context": "Locate the specific ComfyUI integration and distinguish it from the original InstantID project.",
+      "limitations": "Verify node compatibility and the separate terms for code, InsightFace and model checkpoints; identity fidelity and runtime compatibility were not tested.",
+      "last_catalog_snapshot": "2026-11-05T20:42:51.826317+00:00",
+      "reviewed_on": "2026-11-06",
+      "last_successful_source_commit": "9ad98812e5c2a406865d39f3e33b4b026de175c4",
+      "decision": "retain published route as a dated unranked reference when absent from current discovery",
+      "primary_sources": [
+        {
+          "url": "https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "01210b116c111494c6fdd85fbec2f299e6ee4b23442c09dab1f27a7b2612ba24",
+          "blob_sha": "f745c785798367a0110eb64895d790630e84e619"
+        }
+      ]
     }
   ],
   "retirements": [],

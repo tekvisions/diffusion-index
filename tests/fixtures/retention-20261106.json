@@ -1,0 +1,13 @@
+{
+  "canonical_urls": [
+    "https://diffusion.kymatalabs.com/p/doubiiu-dynamicrafter/",
+    "https://diffusion.kymatalabs.com/p/zho-zho-zho-comfyui-instantid/"
+  ],
+  "protected_policy": {
+    "retirements": [],
+    "capture_at": "2026-11-03T00:36:01.699888+00:00",
+    "captured_sitemap_sha256": "67ed1b215416df63e1c169dbe1c4002420001bd20401cd071c4f89911c63ccb1",
+    "captured_inventory_sha256": "1ef637220f175ffc6211f0d79eed42762e19f426f584a689ca6debc0ff88db9a",
+    "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+  }
+}
