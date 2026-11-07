@@ -2,8 +2,8 @@
 
 > The Diffusion Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T17:25:21.812244+00:00
-Current catalog records: 265
+Snapshot collected: 2026-11-07T15:34:50.867942+00:00
+Current catalog records: 266
 
 ## Sources and interpretation
 
@@ -25,25 +25,26 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [Comfy-Org/ComfyUI](https://diffusion.kymatalabs.com/p/comfy-org-comfyui/) — ComfyUI & Nodes
 - [unslothai/unsloth](https://diffusion.kymatalabs.com/p/unslothai-unsloth/) — Diffusion Frameworks
 - [hypit-ai/hypit](https://diffusion.kymatalabs.com/p/hypit-ai-hypit/) — Video Generation
+- [JuneYaooo/rea-video](https://diffusion.kymatalabs.com/p/juneyaooo-rea-video/) — Video Generation
 - [huggingface/diffusers](https://diffusion.kymatalabs.com/p/huggingface-diffusers/) — Diffusion Frameworks
 - [Anil-matcha/Open-Generative-AI](https://diffusion.kymatalabs.com/p/anil-matcha-open-generative-ai/) — Diffusion Frameworks
 - [invoke-ai/InvokeAI](https://diffusion.kymatalabs.com/p/invoke-ai-invokeai/) — WebUIs & Apps
 - [OpenMOSS/MOSS-Image](https://diffusion.kymatalabs.com/p/openmoss-moss-image/) — Training & Fine-tuning
 - [kevinraymond/florilegium](https://diffusion.kymatalabs.com/p/kevinraymond-florilegium/) — Image Models
 - [D3voz/openjutsu](https://diffusion.kymatalabs.com/p/d3voz-openjutsu/) — ComfyUI & Nodes
-- [krillinai/OpenCreator](https://diffusion.kymatalabs.com/p/krillinai-opencreator/) — Video Generation
 - [vercel/satori](https://diffusion.kymatalabs.com/p/vercel-satori/) — Image Models
 - [latent-spaces/brag](https://diffusion.kymatalabs.com/p/latent-spaces-brag/) — Video Generation
-- [Acly/krita-ai-diffusion](https://diffusion.kymatalabs.com/p/acly-krita-ai-diffusion/) — Editing & Control
+- [krillinai/OpenCreator](https://diffusion.kymatalabs.com/p/krillinai-opencreator/) — Video Generation
 - [FlashML-org/FreeVideo](https://diffusion.kymatalabs.com/p/flashml-org-freevideo/) — Video Generation
 - [Lightricks/LTX-Video](https://diffusion.kymatalabs.com/p/lightricks-ltx-video/) — Video Generation
+- [Acly/krita-ai-diffusion](https://diffusion.kymatalabs.com/p/acly-krita-ai-diffusion/) — Editing & Control
 - [easydiffusion/easydiffusion](https://diffusion.kymatalabs.com/p/easydiffusion-easydiffusion/) — WebUIs & Apps
 - [NVlabs/Sana](https://diffusion.kymatalabs.com/p/nvlabs-sana/) — Diffusion Frameworks
 - [leejet/stable-diffusion.cpp](https://diffusion.kymatalabs.com/p/leejet-stable-diffusion-cpp/) — Diffusion Frameworks
 - [Osmantic/ODS](https://diffusion.kymatalabs.com/p/osmantic-ods/) — ComfyUI & Nodes
 - [vllm-project/vllm-omni](https://diffusion.kymatalabs.com/p/vllm-project-vllm-omni/) — Video Generation
-- [vladmandic/sdnext](https://diffusion.kymatalabs.com/p/vladmandic-sdnext/) — WebUIs & Apps
 - [dramaclaw/dramaclaw](https://diffusion.kymatalabs.com/p/dramaclaw-dramaclaw/) — Video Generation
+- [vladmandic/sdnext](https://diffusion.kymatalabs.com/p/vladmandic-sdnext/) — WebUIs & Apps
 - [civitai/civitai](https://diffusion.kymatalabs.com/p/civitai-civitai/) — Training & Fine-tuning
 - [kaomei/stickman-video-director](https://diffusion.kymatalabs.com/p/kaomei-stickman-video-director/) — Video Generation
 - [alexgreensh/anidoodle](https://diffusion.kymatalabs.com/p/alexgreensh-anidoodle/) — Image Models
@@ -55,13 +56,12 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [hao-ai-lab/FastVideo](https://diffusion.kymatalabs.com/p/hao-ai-lab-fastvideo/) — Diffusion Frameworks
 - [mcmonkeyprojects/SwarmUI](https://diffusion.kymatalabs.com/p/mcmonkeyprojects-swarmui/) — ComfyUI & Nodes
 - [Tencent-Hunyuan/HunyuanVideo](https://diffusion.kymatalabs.com/p/tencent-hunyuan-hunyuanvideo/) — Video Generation
-- [williamngan/pts](https://diffusion.kymatalabs.com/p/williamngan-pts/) — Image Models
 - [CookSleep/gpt_image_playground](https://diffusion.kymatalabs.com/p/cooksleep-gpt-image-playground/) — Editing & Control
 - [Wan-Video/Wan2.2](https://diffusion.kymatalabs.com/p/wan-video-wan2-2/) — Video Generation
 - [HKUDS/ViMax](https://diffusion.kymatalabs.com/p/hkuds-vimax/) — Video Generation
+- [williamngan/pts](https://diffusion.kymatalabs.com/p/williamngan-pts/) — Image Models
 - [darkzOGx/youtube-automation-agent](https://diffusion.kymatalabs.com/p/darkzogx-youtube-automation-agent/) — Video Generation
 - [thu-ml/TurboDiffusion](https://diffusion.kymatalabs.com/p/thu-ml-turbodiffusion/) — Video Generation
-- [PurpleDoubleD/locally-uncensored](https://diffusion.kymatalabs.com/p/purpledoubled-locally-uncensored/) — Diffusion Frameworks
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
