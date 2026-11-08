@@ -371,6 +371,29 @@
           "blob_sha": "f745c785798367a0110eb64895d790630e84e619"
         }
       ]
+    },
+    {
+      "slug": "tencent-hunyuan-hunyuanvideo-foley",
+      "entity": "Tencent-Hunyuan/HunyuanVideo-Foley",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/tencent-hunyuan-hunyuanvideo-foley/",
+      "repository": "https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley",
+      "summary": "HunyuanVideo-Foley documents a multimodal diffusion system for generating Foley audio conditioned on video and text descriptions. The repository includes inference code and links to model checkpoints, with XL and XXL usage examples.",
+      "selection_context": "Compare the documented single-video, batch and Gradio workflows for adding sound effects to existing video. This is a video-to-audio reference, not a generic video-generation tool.",
+      "limitations": "Verify CUDA and Python compatibility, model-download terms and available GPU memory for the selected model and offload mode. Publisher audio-quality, synchronization and benchmark claims were not independently reproduced; no checkpoint installation or inference test was performed.",
+      "schema_type": "SoftwareSourceCode",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-08",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley/blob/df7b005b5023df2a9b73e1d66dd51d452799884e/README.md",
+          "title": "Publisher README at reviewed commit",
+          "commit_sha": "df7b005b5023df2a9b73e1d66dd51d452799884e",
+          "blob_sha": "4719168954f08741181075e0a9c376991515d256",
+          "evidence_sha256": "bb9fb0a62f458607e11caa773b2df1a1ee9269a5abd071547d9c24af48396cb7"
+        }
+      ]
     }
   ],
   "retirements": [],
