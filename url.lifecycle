@@ -394,6 +394,204 @@
           "evidence_sha256": "bb9fb0a62f458607e11caa773b2df1a1ee9269a5abd071547d9c24af48396cb7"
         }
       ]
+    },
+    {
+      "slug": "11cafe-comfyui-workspace-manager",
+      "entity": "11cafe/comfyui-workspace-manager",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/11cafe-comfyui-workspace-manager/",
+      "repository": "https://github.com/11cafe/comfyui-workspace-manager",
+      "summary": "Publisher description of 11cafe/comfyui-workspace-manager: A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch between workflows, as well as import, export workflows, reuse subworkflows, install models, browse your models in a single workspace. The saved 2026-11-07 catalog classified it under ComfyUI & Nodes.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for ComfyUI & Nodes work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/11cafe/comfyui-workspace-manager/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "a0560129b4a4de2a5458730d714d13ec8ec700cbea9decd413a5ba48b9a1b121",
+          "blob_sha": "e055a045b2b0740fc3c6d21a83a35c6d17e98c5e"
+        }
+      ]
+    },
+    {
+      "slug": "cooksleep-gpt-image-playground",
+      "entity": "CookSleep/gpt_image_playground",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/cooksleep-gpt-image-playground/",
+      "repository": "https://github.com/CookSleep/gpt_image_playground",
+      "summary": "Publisher description of CookSleep/gpt_image_playground (translated from Chinese): an image generation and editing tool that supports GPT Image, Gemini (Nano Banana) and Grok. The saved 2026-11-07 catalog classified it under Editing & Control.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Editing & Control work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/CookSleep/gpt_image_playground/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "278b98928de23f59402c7c81c19ec6bb014d56b0802b038c0c7c3a3bfd8ff479",
+          "blob_sha": "57a5716cfb99352e7130b7613fada45eeef7b08e"
+        }
+      ]
+    },
+    {
+      "slug": "exponentialml-text-to-video-finetuning",
+      "entity": "ExponentialML/Text-To-Video-Finetuning",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/exponentialml-text-to-video-finetuning/",
+      "repository": "https://github.com/ExponentialML/Text-To-Video-Finetuning",
+      "summary": "Publisher description of ExponentialML/Text-To-Video-Finetuning: Finetune ModelScope's Text To Video model using Diffusers 🧨. The saved 2026-11-07 catalog classified it under Diffusion Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Diffusion Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements. The publisher has archived the repository, so it is read-only and no longer maintained there.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/ExponentialML/Text-To-Video-Finetuning/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "66a95f4547299315b88ed9b2351ad4f3297f59b8ecb2c58ecf87ae039c649d36",
+          "blob_sha": "6158868fecff767fa999654d50a6ed73440036a1"
+        }
+      ]
+    },
+    {
+      "slug": "hotshotco-hotshot-xl",
+      "entity": "hotshotco/Hotshot-XL",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/hotshotco-hotshot-xl/",
+      "repository": "https://github.com/hotshotco/Hotshot-XL",
+      "summary": "Publisher description of hotshotco/Hotshot-XL: ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL. The saved 2026-11-07 catalog classified it under Diffusion Frameworks.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Diffusion Frameworks work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/hotshotco/Hotshot-XL/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "ee9071d8ff286a3fd397d08954f867dcbae101486ca8312912e8fcd7c5a6f2d8",
+          "blob_sha": "51b8ad9bcbb9f3ff98a45f1c57cec194c95176dc"
+        }
+      ]
+    },
+    {
+      "slug": "kaomei-stickman-video-director",
+      "entity": "kaomei/stickman-video-director",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/kaomei-stickman-video-director/",
+      "repository": "https://github.com/kaomei/stickman-video-director",
+      "summary": "Publisher description of kaomei/stickman-video-director: Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source. The saved 2026-11-07 catalog classified it under Video Generation.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Video Generation work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/kaomei/stickman-video-director/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "0fa34cf5277a1d55d0ba352ccf037f5894bba4288e7b4132110c3853dd9ac7d5",
+          "blob_sha": "eb4c1e714b0bc08c659a14a9b76d7416ad144a89"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-researchstudio",
+      "entity": "microsoft/ResearchStudio",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/microsoft-researchstudio/",
+      "repository": "https://github.com/microsoft/ResearchStudio",
+      "summary": "Publisher description of microsoft/ResearchStudio: ResearchStudio: Our AI co-author, from research problem to final publication. The saved 2026-11-07 catalog classified it under Video Generation.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Video Generation work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/microsoft/ResearchStudio/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "f90bb2f2b3230b925c63ff8cc58f86cc5fe5bdcc6a91eea691e0d386b2e063e3",
+          "blob_sha": "91d1fa88969cc4eda66caa6e2d578551b38ae2a5"
+        }
+      ]
+    },
+    {
+      "slug": "openmoss-mova",
+      "entity": "OpenMOSS/MOVA",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/openmoss-mova/",
+      "repository": "https://github.com/OpenMOSS/MOVA",
+      "summary": "Publisher description of OpenMOSS/MOVA: A foundation model that generates synchronized video and audio in a single model. The saved 2026-11-07 catalog classified it under Video Generation.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Video Generation work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/OpenMOSS/MOVA/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "224fc74a35a1e39c3869c5bbd64bc7817da54089fee5bfc45a19eff2c2933bad",
+          "blob_sha": "fd8cac3a11baa87e2728560f1f79ca428cfa7354"
+        }
+      ]
+    },
+    {
+      "slug": "robbiebarrat-rapping-neural-network",
+      "entity": "robbiebarrat/rapping-neural-network",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/robbiebarrat-rapping-neural-network/",
+      "repository": "https://github.com/robbiebarrat/rapping-neural-network",
+      "summary": "Publisher description of robbiebarrat/rapping-neural-network: Rap song writing recurrent neural network trained on Kanye West's entire discography. The saved 2026-11-07 catalog classified it under Image Models.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Image Models work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/robbiebarrat/rapping-neural-network/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "7a78413b6408998059c82f9a36e2cecd842458d0c9f373d6c978628997e70e8a",
+          "blob_sha": "c53a2b0db2fdb6aec172085ad761181cb101962c"
+        }
+      ]
+    },
+    {
+      "slug": "sharegpt4omni-sharegpt4video",
+      "entity": "ShareGPT4Omni/ShareGPT4Video",
+      "canonical_url": "https://diffusion.kymatalabs.com/p/sharegpt4omni-sharegpt4video/",
+      "repository": "https://github.com/ShareGPT4Omni/ShareGPT4Video",
+      "summary": "Publisher description of ShareGPT4Omni/ShareGPT4Video: [NeurIPS 2024] An official implementation of \"ShareGPT4Video: Improving Video Understanding and Generation with Better Captions\". The saved 2026-11-07 catalog classified it under Video Generation.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Video Generation work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-07T15:34:50.867942+00:00",
+      "reviewed_on": "2026-11-25",
+      "schema_type": "SoftwareSourceCode",
+      "last_successful_source_commit": "d71aac5343f2e9b6518bfa2460b4f0dc0917a75a",
+      "decision": "Retain the published route as a dated unranked reference when absent from the current discovery snapshot.",
+      "primary_sources": [
+        {
+          "url": "https://github.com/ShareGPT4Omni/ShareGPT4Video/blob/master/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "4ceeb1cedc3c04c98514bec77ce3e56745d84983a3003e8a9b979b78fbc6a1dc",
+          "blob_sha": "819c3637cf4333086b16eb99a2e5d622174ce5f8"
+        }
+      ]
     }
   ],
   "retirements": [],
